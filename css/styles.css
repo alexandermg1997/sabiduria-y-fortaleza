@@ -1,0 +1,132 @@
+/* styles.css - Estilos Cinematográficos y Tema Oscuro con Acentos de Oro */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --color-bg-deep: #070A11;
+    --color-card: #0F1420;
+    --color-card-border: #1F2839;
+    --color-gold: #FFD700;
+    --color-gold-light: #FFE57F;
+    --color-gold-dark: #C69200;
+    --color-accent: #38BDF8;
+}
+
+body {
+    background-color: var(--color-bg-deep);
+    color: #F1F5F9;
+    font-family: 'Outfit', sans-serif;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, .font-cinzel {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.03em;
+}
+
+/* Scrollbar personalizada estética */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #090D15;
+}
+::-webkit-scrollbar-thumb {
+    background: #232B3E;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #FFD700;
+}
+
+/* Efectos de Brillo Dorado y Gradientes */
+.gold-gradient-text {
+    background: linear-gradient(135deg, #FFF099 0%, #FFD700 50%, #FFA800 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gold-border-glow {
+    border: 1px solid rgba(255, 215, 0, 0.25);
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.gold-border-glow:hover {
+    border-color: rgba(255, 215, 0, 0.6);
+    box-shadow: 0 0 30px rgba(255, 215, 0, 0.22);
+    transform: translateY(-4px);
+}
+
+/* Tarjeta Glassmorphic */
+.glass-panel {
+    background: rgba(15, 20, 32, 0.75);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Botón Dorado Primario */
+.btn-gold {
+    background: linear-gradient(135deg, #FFD700 0%, #D49B00 100%);
+    color: #0A0D14;
+    font-weight: 700;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+}
+
+.btn-gold:hover {
+    background: linear-gradient(135deg, #FFE44D 0%, #E6A700 100%);
+    box-shadow: 0 6px 25px rgba(255, 215, 0, 0.45);
+    transform: scale(1.02);
+}
+
+/* Botón Secundario Transparente */
+.btn-outline-gold {
+    border: 1px solid rgba(255, 215, 0, 0.45);
+    color: #FFD700;
+    background: rgba(255, 215, 0, 0.05);
+    transition: all 0.25s ease;
+}
+
+.btn-outline-gold:hover {
+    background: rgba(255, 215, 0, 0.15);
+    border-color: #FFD700;
+    transform: scale(1.02);
+}
+
+/* Animaciones */
+@keyframes pulseSubtle {
+    0%, 100% { opacity: 0.8; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.03); }
+}
+
+.animate-pulse-subtle {
+    animation: pulseSubtle 3s infinite ease-in-out;
+}
+
+/* Modal de Video */
+.video-modal-backdrop {
+    background: rgba(4, 7, 14, 0.92);
+    backdrop-filter: blur(16px);
+}
+
+/* Chips de Filtro */
+.filter-chip {
+    transition: all 0.2s ease;
+}
+.filter-chip.active {
+    background: #FFD700;
+    color: #0A0E18;
+    font-weight: 700;
+    border-color: #FFD700;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.35);
+}
+
+/* Tarjetas de Shorts vs Documentales */
+.card-short-format {
+    aspect-ratio: 9 / 16;
+}
+.card-long-format {
+    aspect-ratio: 16 / 9;
+}

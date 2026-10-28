@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexandermg1997.github.io/sabiduria-y-fortaleza/sitemap.xml

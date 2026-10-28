@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Metadatos SEO Principales -->
+    <title>Sabiduría y Fortaleza | Historias Estoicas, Documentales y Reflexión</title>
+    <meta name="description" content="Descubre lecciones milenarias de estoicismo, batallas bíblicas y biografías históricas para dominar tu mente, forjar disciplina y vencer la adversidad.">
+    <meta name="keywords" content="estoicismo, marco aurelio, senece, sabiduria, fortaleza mental, historias biblicas, documentales historicos, shorts, motivacion, superacion">
+    <meta name="author" content="Sabiduría y Fortaleza">
+    <meta name="robots" content="index, follow">
+
+    <!-- Verificación Google Search Console -->
+    <meta name="google-site-verification" content="GSC_VERIFICATION_PLACEHOLDER">
+
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://alexandermg1997.github.io/sabiduria-y-fortaleza/">
+    <meta property="og:title" content="Sabiduría y Fortaleza | Forja tu Mente y Domina tu Destino">
+    <meta property="og:description" content="Portal oficial con más de 200 videos de estoicismo, batallas de fe y sabiduría ancestral para enfrentar los días difíciles.">
+    <meta property="og:image" content="assets/banner.jpg">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Sabiduría y Fortaleza | Historias y Filosofía Práctica">
+    <meta name="twitter:description" content="Canal oficial y biblioteca de videos de sabiduría estoica y coraje.">
+    <meta name="twitter:image" content="assets/banner.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpeg" href="assets/avatar.jpg">
+
+    <!-- Tailwind CSS CDN v3 -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        gold: {
+                            300: '#FFE57F',
+                            400: '#FFD700',
+                            500: '#E6A700',
+                            600: '#B28200',
+                        },
+                        obsidian: {
+                            900: '#070A11',
+                            800: '#0F1420',
+                            700: '#182030',
+                            600: '#232D42',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Estilos Personalizados -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Schema.org Datos Estructurados para Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "Sabiduría y Fortaleza",
+          "url": "https://alexandermg1997.github.io/sabiduria-y-fortaleza/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://alexandermg1997.github.io/sabiduria-y-fortaleza/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "Organization",
+          "name": "Sabiduría y Fortaleza",
+          "url": "https://alexandermg1997.github.io/sabiduria-y-fortaleza/",
+          "logo": "assets/avatar.jpg",
+          "sameAs": [
+            "https://www.youtube.com/@SabiduriayFortalezaOficial",
+            "https://www.tiktok.com/@leidylaura4783"
+          ]
+        }
+      ]
+    }
+    </script>
+
+    <!-- Scripts de Configuración y Analítica -->
+    <script src="js/config.js"></script>
+    <script src="js/analytics.js"></script>
+</head>
+<body class="bg-obsidian-900 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-amber-400 selection:text-slate-950">
+
+    <!-- 1. Header / Barra de Navegación -->
+    <header class="sticky top-0 z-40 bg-obsidian-900/85 backdrop-blur-md border-b border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+            <!-- Logo & Marca -->
+            <a href="#" class="flex items-center gap-3.5 group">
+                <img src="assets/avatar.jpg" alt="Logo Sabiduría y Fortaleza" class="w-11 h-11 rounded-full object-cover border-2 border-amber-400 shadow-md group-hover:scale-105 transition-transform" onerror="this.style.display='none'" />
+                <div>
+                    <span class="block font-cinzel font-bold text-lg md:text-xl text-white tracking-wide group-hover:text-amber-400 transition-colors">
+                        SABIDURÍA & FORTALEZA
+                    </span>
+                    <span class="block text-[11px] text-amber-400/90 font-medium tracking-wider uppercase">
+                        Forjando el Carácter
+                    </span>
+                </div>
+            </a>
+
+            <!-- Navegación Desktop -->
+            <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-slate-300">
+                <a href="#hero" class="hover:text-amber-400 transition-colors">Inicio</a>
+                <a href="#videos" class="hover:text-amber-400 transition-colors">Videos</a>
+                <a href="#devocional" class="hover:text-amber-400 transition-colors">Devocional Gratis</a>
+                <a href="#comunidad" class="hover:text-amber-400 transition-colors">Comunidad</a>
+            </nav>
+
+            <!-- Botón CTA Suscribirse a YouTube -->
+            <div class="flex items-center gap-3">
+                <a id="header-subscribe-btn" href="https://www.youtube.com/@SabiduriayFortalezaOficial?sub_confirmation=1" target="_blank" rel="noopener noreferrer" 
+                   class="btn-gold px-4 py-2.5 rounded-xl text-xs md:text-sm font-bold flex items-center gap-2">
+                    <svg class="w-4 h-4 fill-red-600" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                    <span>Suscribirse</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- 2. Hero Section Cinematográfica -->
+    <section id="hero" class="relative pt-12 pb-20 md:pt-20 md:pb-28 overflow-hidden border-b border-slate-800">
+        <!-- Luces y Fondos Atmosféricos -->
+        <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-96 bg-gradient-to-b from-amber-500/10 via-amber-500/5 to-transparent blur-3xl pointer-events-none"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+                <!-- Columna Texto y Mensaje -->
+                <div class="lg:col-span-7 text-center lg:text-left">
+                    <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-semibold bg-amber-400/10 text-amber-300 border border-amber-400/25 mb-6">
+                        <span class="w-2 h-2 rounded-full bg-amber-400 animate-pulse"></span>
+                        Portal Oficial del Canal de YouTube
+                    </div>
+
+                    <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold font-cinzel leading-tight md:leading-tight mb-6">
+                        Domina Tu Mente. <br />
+                        <span class="gold-gradient-text">Forja Tu Fortaleza.</span>
+                    </h1>
+
+                    <p class="text-slate-300 text-base md:text-lg font-light leading-relaxed max-w-2xl mx-auto lg:mx-0 mb-8">
+                        La soledad, el dolor y la tormenta no vienen a destruirte; vienen a revelarte de qué madera estás hecho. Descubre historias reales de emperadores, monjes y hombres de fe que conquistaron su abismo interior.
+                    </p>
+
+                    <!-- Widget Frase del Día -->
+                    <div id="daily-quote" class="glass-panel p-5 rounded-2xl mb-8 border-l-4 border-amber-400 max-w-xl mx-auto lg:mx-0 text-left">
+                        <!-- Inyectado por JS -->
+                    </div>
+
+                    <!-- Botones de Acción -->
+                    <div class="flex flex-wrap items-center justify-center lg:justify-start gap-4">
+                        <a href="#videos" class="btn-gold px-6 py-3 rounded-xl text-sm md:text-base font-bold flex items-center gap-2">
+                            <span>Explorar Catálogo de Videos</span>
+                            <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/></svg>
+                        </a>
+                        <a href="#devocional" class="btn-outline-gold px-6 py-3 rounded-xl text-sm md:text-base font-bold flex items-center gap-2">
+                            <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+                            <span>Descargar Devocional Gratis</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Columna Video Destacado -->
+                <div class="lg:col-span-5" id="hero-featured-video">
+                    <!-- Inyectado dinámicamente por app.js -->
+                    <div class="w-full aspect-video rounded-2xl bg-slate-800 animate-pulse"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Catálogo de Videos y Buscador -->
+    <section id="videos" class="py-16 md:py-24 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex-1">
+        <!-- Encabezado de la Sección -->
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <span class="text-xs font-bold text-amber-400 tracking-widest uppercase mb-2 block">
+                Biblioteca Audiovisual Completa
+            </span>
+            <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold font-cinzel text-white mb-4">
+                Videos, Shorts y Documentales
+            </h2>
+            <p class="text-slate-400 text-sm md:text-base font-light">
+                Más de 240 producciones cinematográficas analizadas paso a paso. Haz clic para reproducir en pantalla o ver directamente en YouTube para apoyar el canal.
+            </p>
+        </div>
+
+        <!-- Barra de Búsqueda en Vivo -->
+        <div class="max-w-2xl mx-auto mb-8 relative">
+            <input type="text" id="search-input" placeholder="Buscar por personaje, tema o cita (ej. Marco Aurelio, Salomón, Calcis)..." 
+                   class="w-full px-5 py-4 pl-12 rounded-2xl bg-slate-900/90 border border-slate-700 text-white placeholder-slate-500 focus:outline-none focus:border-amber-400 focus:ring-2 focus:ring-amber-400/20 text-sm transition-all" />
+            <svg class="w-5 h-5 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+            </svg>
+        </div>
+
+        <!-- Chips de Filtros Dinámicos -->
+        <div id="filter-chips" class="flex flex-wrap items-center justify-center gap-2.5 mb-8">
+            <!-- Inyectado por app.js -->
+        </div>
+
+        <!-- Contador de Videos -->
+        <div class="flex items-center justify-between text-xs text-slate-400 mb-6 px-1">
+            <span id="video-count-label">Cargando catálogo...</span>
+            <span class="text-amber-400/90 font-medium">⚡ Actualizado desde base de datos</span>
+        </div>
+
+        <!-- Cuadrícula de Videos -->
+        <div id="video-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- Tarjetas inyectadas por app.js -->
+        </div>
+
+        <!-- Botón Cargar Más -->
+        <div class="text-center mt-12">
+            <button id="load-more-btn" class="btn-outline-gold px-8 py-3.5 rounded-xl text-sm font-bold cursor-pointer">
+                Cargar Más Videos
+            </button>
+        </div>
+    </section>
+
+    <!-- 4. Lead Magnet: Devocional Digital de 30 Días -->
+    <section id="devocional" class="py-16 md:py-24 bg-gradient-to-b from-obsidian-900 via-slate-950 to-obsidian-900 border-t border-b border-slate-800">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="glass-panel p-8 md:p-12 rounded-3xl border border-amber-500/30 relative overflow-hidden">
+                <div class="absolute -right-20 -top-20 w-80 h-80 bg-amber-500/10 rounded-full blur-3xl pointer-events-none"></div>
+
+                <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+                    <div class="lg:col-span-8">
+                        <span class="inline-block px-3 py-1 rounded-full text-xs font-bold bg-amber-400/20 text-amber-300 border border-amber-400/30 mb-4">
+                            🎁 Obsequio para la Comunidad
+                        </span>
+                        <h3 class="text-2xl sm:text-3xl md:text-4xl font-bold font-cinzel text-white mb-4">
+                            Devocional Digital: 30 Días de Fortaleza
+                        </h3>
+                        <p class="text-slate-300 text-sm md:text-base font-light leading-relaxed mb-6">
+                            Un compendio reflexivo de 30 meditaciones prácticas que combinan la sabiduría estoica antigua con principios bíblicos inquebrantables. Diseñado para leer en 5 minutos al despertar o antes de dormir.
+                        </p>
+                        <ul class="space-y-2.5 text-xs md:text-sm text-slate-300 mb-8">
+                            <li class="flex items-center gap-2">
+                                <span class="text-amber-400">✓</span> Ejercicios diarios de dominio mental y gratitud.
+                            </li>
+                            <li class="flex items-center gap-2">
+                                <span class="text-amber-400">✓</span> Citas comentadas de Séneca, Marco Aurelio, Job y los Salmos.
+                            </li>
+                            <li class="flex items-center gap-2">
+                                <span class="text-amber-400">✓</span> Formato PDF de alta resolución listo para imprimir o leer en el móvil.
+                            </li>
+                        </ul>
+                        <a id="devocional-download-btn" href="assets/devocional_30_dias.pdf" download="Devocional_Digital_30_Dias.pdf" 
+                           class="btn-gold px-7 py-3.5 rounded-xl text-sm font-bold inline-flex items-center gap-2 cursor-pointer">
+                            <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+                            <span>Descargar Gratis (PDF)</span>
+                        </a>
+                    </div>
+
+                    <div class="lg:col-span-4 flex justify-center">
+                        <div class="w-48 sm:w-56 aspect-[3/4] rounded-2xl bg-gradient-to-tr from-slate-900 to-amber-950 p-6 shadow-2xl border-2 border-amber-400/40 flex flex-col justify-between text-center transform hover:rotate-1 transition-transform">
+                            <div class="pt-4">
+                                <span class="text-xs font-cinzel tracking-widest text-amber-400 block mb-2">GUÍA EXCLUSIVA</span>
+                                <h4 class="font-cinzel text-lg font-bold text-white leading-tight">30 DÍAS DE FORTALEZA</h4>
+                            </div>
+                            <div class="py-4">
+                                <span class="text-4xl">🛡️</span>
+                            </div>
+                            <div class="text-[10px] text-amber-300 font-mono tracking-wider border-t border-amber-500/30 pt-3">
+                                EDICIÓN OFICIAL 2026
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. Comunidad Multicanal -->
+    <section id="comunidad" class="py-16 md:py-24 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-2xl mx-auto mb-12">
+            <span class="text-xs font-bold text-amber-400 tracking-widest uppercase mb-2 block">
+                Únete a la Hermandad
+            </span>
+            <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold font-cinzel text-white mb-4">
+                Comunidades y Redes Oficiales
+            </h2>
+            <p class="text-slate-400 text-sm md:text-base font-light">
+                Recibe reflexiones diarias, audios devocionales y participa en debates en nuestras plataformas activas.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- YouTube -->
+            <a href="https://www.youtube.com/@SabiduriayFortalezaOficial?sub_confirmation=1" target="_blank" rel="noopener noreferrer" 
+               onclick="window.Analytics && window.Analytics.trackSocialCommunityClick('youtube')"
+               class="glass-panel gold-border-glow p-6 rounded-2xl flex flex-col items-center text-center group">
+                <div class="w-12 h-12 rounded-full bg-red-600/20 text-red-500 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                </div>
+                <h4 class="font-bold text-white text-base mb-1">YouTube Oficial</h4>
+                <p class="text-xs text-slate-400 mb-4">Shorts diarios y documentales de 16:9 en alta resolución.</p>
+                <span class="text-xs font-semibold text-amber-400 group-hover:underline">Suscribirse &rarr;</span>
+            </a>
+
+            <!-- TikTok -->
+            <a href="https://www.tiktok.com/@leidylaura4783" target="_blank" rel="noopener noreferrer" 
+               onclick="window.Analytics && window.Analytics.trackSocialCommunityClick('tiktok')"
+               class="glass-panel gold-border-glow p-6 rounded-2xl flex flex-col items-center text-center group">
+                <div class="w-12 h-12 rounded-full bg-pink-600/20 text-pink-400 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.24 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg>
+                </div>
+                <h4 class="font-bold text-white text-base mb-1">TikTok</h4>
+                <p class="text-xs text-slate-400 mb-4">Clips verticales condensados y reflexiones rápidas.</p>
+                <span class="text-xs font-semibold text-amber-400 group-hover:underline">Seguir en TikTok &rarr;</span>
+            </a>
+
+            <!-- Canal de WhatsApp -->
+            <a href="https://whatsapp.com" target="_blank" rel="noopener noreferrer" 
+               onclick="window.Analytics && window.Analytics.trackSocialCommunityClick('whatsapp')"
+               class="glass-panel gold-border-glow p-6 rounded-2xl flex flex-col items-center text-center group">
+                <div class="w-12 h-12 rounded-full bg-emerald-600/20 text-emerald-400 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M12.031 0C5.394 0 0 5.394 0 12.031c0 2.115.548 4.181 1.589 6.007L.055 24l6.126-1.558a12.01 12.01 0 0 0 5.85 1.51h.005c6.636 0 12.03-5.394 12.03-12.031 0-3.216-1.252-6.24-3.524-8.513A11.95 11.95 0 0 0 12.031 0zm0 22.046h-.004a9.98 9.98 0 0 1-5.093-1.39l-.365-.217-3.784.963.99-3.69-.238-.378a9.97 9.97 0 0 1-1.53-5.303c0-5.518 4.49-10.008 10.012-10.008 2.673 0 5.187 1.042 7.078 2.934a9.93 9.93 0 0 1 2.933 7.077c-.001 5.519-4.492 10.01-10.013 10.01z"/></svg>
+                </div>
+                <h4 class="font-bold text-white text-base mb-1">Canal WhatsApp</h4>
+                <p class="text-xs text-slate-400 mb-4">Meditaciones matutinas enviadas directo a tu teléfono.</p>
+                <span class="text-xs font-semibold text-amber-400 group-hover:underline">Unirse al Canal &rarr;</span>
+            </a>
+
+            <!-- Telegram -->
+            <a href="https://t.me" target="_blank" rel="noopener noreferrer" 
+               onclick="window.Analytics && window.Analytics.trackSocialCommunityClick('telegram')"
+               class="glass-panel gold-border-glow p-6 rounded-2xl flex flex-col items-center text-center group">
+                <div class="w-12 h-12 rounded-full bg-sky-600/20 text-sky-400 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                    <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.446 1.394c-.14.18-.357.295-.6.295-.002 0-.003 0-.005 0l.213-3.054 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.536-.196 1.006.128.832.941z"/></svg>
+                </div>
+                <h4 class="font-bold text-white text-base mb-1">Grupo Telegram</h4>
+                <p class="text-xs text-slate-400 mb-4">Comunidad de debate, libros en PDF y avisos tempranos.</p>
+                <span class="text-xs font-semibold text-amber-400 group-hover:underline">Entrar al Grupo &rarr;</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- 6. Footer -->
+    <footer class="bg-obsidian-900 border-t border-slate-800 py-12 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center sm:text-left flex flex-col sm:flex-row items-center justify-between gap-6">
+            <div>
+                <p class="font-cinzel font-bold text-white text-base">Sabiduría y Fortaleza</p>
+                <p class="text-xs text-slate-400 mt-1">© 2026. Todos los derechos reservados. Creado con propósito y devoción.</p>
+            </div>
+            <div class="flex items-center gap-6 text-xs text-slate-400">
+                <a href="#hero" class="hover:text-amber-400 transition-colors">Volver arriba ↑</a>
+                <a href="https://www.youtube.com/@SabiduriayFortalezaOficial" target="_blank" rel="noopener noreferrer" class="hover:text-amber-400 transition-colors">Canal de YouTube</a>
+                <a href="assets/devocional_30_dias.pdf" download class="hover:text-amber-400 transition-colors">Devocional PDF</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 7. Modal de Video (Lightbox Interactivo) -->
+    <div id="video-modal" class="fixed inset-0 z-50 hidden items-center justify-center video-modal-backdrop p-4 sm:p-6">
+        <div class="relative w-full max-w-4xl bg-slate-900 border border-amber-500/30 rounded-3xl overflow-hidden shadow-2xl flex flex-col">
+            <!-- Barra superior del modal -->
+            <div class="p-4 px-6 border-b border-slate-800 flex items-center justify-between">
+                <h3 id="modal-title" class="font-cinzel font-bold text-white text-sm sm:text-base line-clamp-1 pr-4">
+                    Reproduciendo Video
+                </h3>
+                <div class="flex items-center gap-3">
+                    <a id="modal-youtube-link" href="#" target="_blank" rel="noopener noreferrer" 
+                       class="text-xs font-semibold text-amber-400 hover:text-amber-300 flex items-center gap-1">
+                        <span>Abrir en YouTube</span>
+                        <svg class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/></svg>
+                    </a>
+                    <button id="modal-close-btn" class="w-8 h-8 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white flex items-center justify-center cursor-pointer transition-colors">
+                        ✕
+                    </button>
+                </div>
+            </div>
+
+            <!-- Contenedor del Iframe Responsive -->
+            <div class="relative w-full aspect-video bg-black" id="modal-iframe-container">
+                <!-- Iframe inyectado por app.js -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Script de la aplicación -->
+    <script src="js/app.js"></script>
+</body>
+</html>
