@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 240,
-    "published_count": 239,
+    "total_videos": 242,
+    "published_count": 241,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -11,9 +11,67 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-10-28 14:25:50 UTC"
+    "last_updated": "2026-10-29 02:24:12 UTC"
   },
   "videos": [
+    {
+      "id": "short_258",
+      "db_id": 258,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Silencio Que Destruye a Quien Te Provoca",
+      "description": "Cuando alguien te insulta o te falta al respeto, tienes exactamente tres segundos para decidir quién tiene el control. Descubre la regla estoica de Catón el Joven y Séneca para desarmar cualquier provocación sin perder tu paz interior.\n\n📌 Guarda este video para tus momentos de tensión y suscríbete a Sabiduría y Fortaleza para forjar una mente inquebrantable.\n\n#estoicismo #sabiduria #autocontrol #silencio #caton #seneca #psicologia #mentalidad #desarrollopersonal #fortaleza",
+      "youtube_id": "FadWi1yBm7E",
+      "youtube_url": "https://www.youtube.com/shorts/FadWi1yBm7E",
+      "embed_url": "https://www.youtube-nocookie.com/embed/FadWi1yBm7E",
+      "thumbnail_url": "https://img.youtube.com/vi/FadWi1yBm7E/maxresdefault.jpg",
+      "duration_seconds": 87.1,
+      "duration_formatted": "1:27",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "estoicismo",
+        "el poder del silencio",
+        "autocontrol",
+        "como responder a un insulto",
+        "caton el joven",
+        "seneca"
+      ],
+      "published": true,
+      "created_at": "2026-10-28",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
+    {
+      "id": "short_257",
+      "db_id": 257,
+      "type": "short",
+      "format": "9:16",
+      "title": "Cadenas de Carne, Voluntad de Fuego",
+      "description": "Epicteto nació esclavo en Roma. Su amo le quebró la pierna con crueldad deliberada, pero jamás pudo someter su voluntad. Descubre el secreto estoico que ningún emperador pudo comprar: la verdadera libertad del alma. #Estoicismo #Epicteto #SuperacionPersonal #Motivacion #SabiduriayFortaleza",
+      "youtube_id": "YXRPPE48QyU",
+      "youtube_url": "https://www.youtube.com/shorts/YXRPPE48QyU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/YXRPPE48QyU",
+      "thumbnail_url": "https://img.youtube.com/vi/YXRPPE48QyU/maxresdefault.jpg",
+      "duration_seconds": 101.0,
+      "duration_formatted": "1:41",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "epicteto",
+        "estoicismo",
+        "sabiduriayfortaleza",
+        "resiliencia",
+        "autocontrol",
+        "filosofia"
+      ],
+      "published": true,
+      "created_at": "2026-10-28",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_256",
       "db_id": 256,
