@@ -6,7 +6,7 @@
 
 const SITE_CONFIG = {
     // Identidad de Marca
-    channelName: "Sabiduría y Fortaleza",
+    channelName: "Sabiduría y Trascendencia",
     channelSlogan: "Forjando el Carácter a Través de la Historia y la Filosofía",
     
     // Google Analytics 4 (Reemplaza con tu ID de medición G-XXXXXXXXXX)
