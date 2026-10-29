@@ -7,7 +7,7 @@
 
 (function () {
     // 1. Inicializar Google Analytics si el ID está configurado
-    const gaId = (window.SITE_CONFIG && window.SITE_CONFIG.gaMeasurementId) || "";
+    const gaId = (window.SITE_CONFIG && window.SITE_CONFIG.gaMeasurementId) || (typeof SITE_CONFIG !== "undefined" && SITE_CONFIG.gaMeasurementId) || "G-4Z71Z1LH5V";
 
     if (gaId && !gaId.includes("EXAMPLE")) {
         // Inyectar gtag.js de forma asíncrona

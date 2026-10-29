@@ -4,7 +4,8 @@
  * Configura aquí tus IDs de analítica de Google y los enlaces oficiales a tus comunidades.
  */
 
-const SITE_CONFIG = {
+window.SITE_CONFIG = {
+
     // Identidad de Marca
     channelName: "Sabiduría y Trascendencia",
     channelSlogan: "Forjando el Carácter a Través de la Historia y la Filosofía",
@@ -33,3 +34,5 @@ const SITE_CONFIG = {
         fileName: "LIBRO_MAESTRO_SABIDURIA_Y_TRASCENDENCIA.pdf"
     }
 };
+
+const SITE_CONFIG = window.SITE_CONFIG;
