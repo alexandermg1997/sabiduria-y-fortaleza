@@ -16,8 +16,8 @@ const SITE_CONFIG = {
     gscVerificationCode: "", 
 
     // Enlaces Oficiales a Redes y Comunidades
-    youtubeChannelUrl: "https://www.youtube.com/@SabiduriayFortalezaOficial",
-    youtubeSubscribeUrl: "https://www.youtube.com/@SabiduriayFortalezaOficial?sub_confirmation=1",
+    youtubeChannelUrl: "https://www.youtube.com/@sabiduriaytrascendencia",
+    youtubeSubscribeUrl: "https://www.youtube.com/@sabiduriaytrascendencia?sub_confirmation=1",
     tiktokUrl: "https://www.tiktok.com/@leidylaura4783",
     whatsappChannelUrl: "https://whatsapp.com/channel/0029Vb1nXYZ", // Enlace de canal WhatsApp
     telegramUrl: "https://t.me/sabiduriayfortaleza", // Enlace de Telegram
