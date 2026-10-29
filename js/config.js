@@ -27,9 +27,9 @@ const SITE_CONFIG = {
 
     // Recurso gratuito Lead Magnet
     leadMagnet: {
-        title: "Devocional Digital de 30 Días: Fortaleza Diaria",
-        subtitle: "Una guía estoica y bíblica para superar la ansiedad, forjar la voluntad y encontrar serenidad en tiempos de tormenta.",
-        fileUrl: "assets/devocional_30_dias.pdf",
-        fileName: "Devocional_Digital_30_Dias.pdf"
+        title: "Libro Maestro: Sabiduría y Trascendencia",
+        subtitle: "Una guía estoica e histórica para superar la ansiedad, forjar la voluntad y encontrar serenidad en tiempos de tormenta.",
+        fileUrl: "assets/LIBRO_MAESTRO_SABIDURIA_Y_TRASCENDENCIA.pdf",
+        fileName: "LIBRO_MAESTRO_SABIDURIA_Y_TRASCENDENCIA.pdf"
     }
 };

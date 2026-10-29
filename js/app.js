@@ -43,8 +43,8 @@ document.addEventListener("DOMContentLoaded", function () {
         `;
     }
 
-    // 2. Cargar catálogo de videos
-    fetch("data/videos.json")
+    // 2. Cargar catálogo de videos con prevención de caché (siempre fresco)
+    fetch("data/videos.json?t=" + Date.now(), { cache: "no-store" })
         .then(res => {
             if (!res.ok) throw new Error("No se pudo cargar el archivo data/videos.json");
             return res.json();
@@ -202,7 +202,7 @@ document.addEventListener("DOMContentLoaded", function () {
         return `
             <div class="glass-panel gold-border-glow rounded-2xl overflow-hidden flex flex-col group transition-all duration-300">
                 <div class="relative overflow-hidden ${isShort ? 'aspect-[9/14]' : 'aspect-video'} bg-slate-950">
-                    <img src="${v.thumbnail_url}" alt="${v.title}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" onerror="this.src='assets/banner.jpg'" />
+                    <img src="${v.thumbnail_url}" alt="${v.title}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" onerror="if(!this.dataset.retried && '${v.youtube_id}'){this.dataset.retried='1';this.src='https://i.ytimg.com/vi/${v.youtube_id}/hqdefault.jpg';}else{this.src='assets/banner.jpg';}" />
                     <div class="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors flex items-center justify-center">
                         <button onclick="window.openVideoModal('${v.youtube_id}', '${v.title.replace(/'/g, "\\'")}', '${v.format}')" 
                                 class="w-12 h-12 md:w-14 md:h-14 rounded-full bg-amber-400 text-slate-950 flex items-center justify-center shadow-lg transform scale-90 group-hover:scale-100 transition-transform cursor-pointer">
