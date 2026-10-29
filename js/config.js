@@ -10,7 +10,7 @@ const SITE_CONFIG = {
     channelSlogan: "Forjando el Carácter a Través de la Historia y la Filosofía",
     
     // Google Analytics 4 (Reemplaza con tu ID de medición G-XXXXXXXXXX)
-    gaMeasurementId: "G-EXAMPLE999", // Coloca aquí tu ID de Google Analytics cuando lo tengas
+    gaMeasurementId: "G-4Z71Z1LH5V", // Coloca aquí tu ID de Google Analytics cuando lo tengas
     
     // Google Search Console (Coloca el código de verificación html o meta tag si lo tienes)
     gscVerificationCode: "", 
