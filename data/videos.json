@@ -2,18 +2,135 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 242,
-    "published_count": 241,
+    "total_videos": 246,
+    "published_count": 245,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
       "Estoicismo & Templanza",
+      "Héroes & Biografías",
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-10-29 04:48:30 UTC"
+    "last_updated": "2026-11-01 01:22:31 UTC"
   },
   "videos": [
+    {
+      "id": "short_262",
+      "db_id": 262,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Riqueza que Nadie Te Puede Quitar: La Lección de Bías de Priene",
+      "description": "El hombre que ata su valor al oro se vuelve esclavo de la fortuna; el sabio comprende que su verdadero poder radica en su carácter y paz mental. Conoce la historia de Bías de Priene, el filósofo griego que ante la caída de su ciudad salió con las manos vacías mientras otros se ahogaban cargando sus tesoros.\n\n📌 Si este mensaje forja tu serenidad, toca el corazón y suscríbete a Sabiduría y Trascendencia para fortalecer tu mente cada día.\n\n#estoicismo #sabiduria #biasdepriene #autocontrol #desapego #filosofia #pazinterior #reflexiones #fuerzamental",
+      "youtube_id": "FkOKlYn7cr4",
+      "youtube_url": "https://www.youtube.com/shorts/FkOKlYn7cr4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/FkOKlYn7cr4",
+      "thumbnail_url": "https://img.youtube.com/vi/FkOKlYn7cr4/maxresdefault.jpg",
+      "duration_seconds": 93.1,
+      "duration_formatted": "1:33",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "bias de priene",
+        "todo lo mio lo llevo conmigo",
+        "estoicismo",
+        "desapego",
+        "sabiduria antigua",
+        "fuerza mental"
+      ],
+      "published": true,
+      "created_at": "2026-11-01",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
+    {
+      "id": "short_261",
+      "db_id": 261,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Verdadera Grandeza de Saber Soltar: La Lección de Cincinato",
+      "description": "El hombre débil se corrompe y pierde la cabeza con una pizca de control; el sabio demuestra su verdadero poder sabiendo exactamente cuándo soltarlo. Conoce la historia de Cincinato, el granjero que recibió el mando dictatorial absoluto de Roma, salvó a su nación en dieciséis días y regresó en paz a arar su parcela.\n\n📌 Si este mensaje forja tu templanza, toca el corazón y suscríbete a Sabiduría y Trascendencia para fortalecer tu mente cada día.\n\n#estoicismo #cincinato #autocontrol #poder #humildad #sabiduria #filosofia #liderazgo #grandeza #reflexiones",
+      "youtube_id": "Jt_TttuYQhw",
+      "youtube_url": "https://www.youtube.com/shorts/Jt_TttuYQhw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Jt_TttuYQhw",
+      "thumbnail_url": "https://img.youtube.com/vi/Jt_TttuYQhw/maxresdefault.jpg",
+      "duration_seconds": 87.7,
+      "duration_formatted": "1:27",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "cincinato",
+        "el poder de saber soltar",
+        "estoicismo",
+        "humildad",
+        "autocontrol",
+        "liderazgo sabio"
+      ],
+      "published": true,
+      "created_at": "2026-10-31",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
+    {
+      "id": "short_260",
+      "db_id": 260,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Batalla Contra Tu Propia Debilidad: Demóstenes y el Océano",
+      "description": "Naciste con desventajas o fuiste víctima de la injusticia ajena, pero el lamento jamás forjó a un hombre sabio. Descubre la legendaria historia de Demóstenes, el huérfano tartamudo que se afeitó la cabeza, bajó a las olas embravecidas del mar y convirtió su mayor vergüenza en la voz más poderosa de la historia.\n\n📌 Si este mensaje enciende tu determinación, toca el corazón y suscríbete a Sabiduría y Trascendencia para fortalecer tu mente cada día.\n\n#estoicismo #demostenes #superacion #disciplina #fuerzamental #sabiduria #autocontrol #motivacion #filosofia #resiliencia",
+      "youtube_id": "Y-ctF0SAmY8",
+      "youtube_url": "https://www.youtube.com/shorts/Y-ctF0SAmY8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Y-ctF0SAmY8",
+      "thumbnail_url": "https://img.youtube.com/vi/Y-ctF0SAmY8/maxresdefault.jpg",
+      "duration_seconds": 85.7,
+      "duration_formatted": "1:25",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "demostenes",
+        "el poder de la disciplina",
+        "superacion personal",
+        "como vencer la debilidad",
+        "sabiduria estoica",
+        "fuerza mental"
+      ],
+      "published": true,
+      "created_at": "2026-10-30",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
+    {
+      "id": "short_259",
+      "db_id": 259,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Trampa de Envidiar la Vida Ajena: La Espada de Damocles",
+      "description": "Pasas tus días codiciando el éxito, la riqueza y el reconocimiento ajeno, creyendo que su vida es perfecta. Pero jamás has visto el abismo sobre el que caminan. Descubre la legendaria lección de la Espada de Damocles y por qué tu paz interior vale más que cualquier corona terrenal.\n\n📌 Si este mensaje forja tu templanza, toca el corazón y suscríbete a Sabiduría y Trascendencia para fortalecer tu mente cada día.\n\n#estoicismo #sabiduria #damocles #envidia #autocontrol #psicologia #pazinterior #superacion #filosofia #reflexion",
+      "youtube_id": "_cDrD03Lyzw",
+      "youtube_url": "https://www.youtube.com/shorts/_cDrD03Lyzw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/_cDrD03Lyzw",
+      "thumbnail_url": "https://img.youtube.com/vi/_cDrD03Lyzw/maxresdefault.jpg",
+      "duration_seconds": 81.2,
+      "duration_formatted": "1:21",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "la espada de damocles",
+        "envidia",
+        "como dejar de envidiar",
+        "sabiduria",
+        "estoicismo",
+        "paz interior"
+      ],
+      "published": true,
+      "created_at": "2026-10-29",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_258",
       "db_id": 258,

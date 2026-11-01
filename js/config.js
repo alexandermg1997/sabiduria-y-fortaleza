@@ -20,6 +20,7 @@ window.SITE_CONFIG = {
     youtubeChannelUrl: "https://www.youtube.com/@sabiduriaytrascendencia",
     youtubeSubscribeUrl: "https://www.youtube.com/@sabiduriaytrascendencia?sub_confirmation=1",
     tiktokUrl: "https://www.tiktok.com/@leidylaura4783",
+    threadsUrl: "https://www.threads.net/@sabiduriaytrascendencia",
     whatsappChannelUrl: "https://whatsapp.com/channel/0029Vb1nXYZ", // Enlace de canal WhatsApp
     telegramUrl: "https://t.me/sabiduriayfortaleza", // Enlace de Telegram
     facebookUrl: "https://facebook.com",
