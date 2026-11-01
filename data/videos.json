@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 246,
-    "published_count": 245,
+    "total_videos": 250,
+    "published_count": 246,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,125 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-01 01:23:36 UTC"
+    "last_updated": "2026-11-01 22:47:35 UTC"
   },
   "videos": [
+    {
+      "id": "short_266",
+      "db_id": 266,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Riqueza del Desapego: La Lección de Marie Curie",
+      "description": "La grandeza no necesita aplausos ni comodidades; se forja en el sacrificio silencioso de quien entrega su vida por una causa más grande que su propio ego. Conoce la historia de Marie Curie en el cobertizo de la pechblenda, quien rechazó hacerse multimillonaria con las patentes del radio para regalar la cura al mundo entero.\n\n🔔 Suscríbete a Sabiduría y Trascendencia para forjar tu mente cada día.\n\n#mariecurie #ciencia #trascendencia #desapego #altruismo #sabiduria #inspiracion #valores #crecimientopersonal",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 105.1,
+      "duration_formatted": "1:45",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "marie curie",
+        "pechblenda",
+        "radio",
+        "desapego",
+        "altruismo",
+        "sabiduria"
+      ],
+      "published": false,
+      "created_at": "2026-11-01",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_265",
+      "db_id": 265,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Frase que Cambia Todo: El Secreto del Anillo Persa",
+      "description": "Si la tristeza te aplasta hoy, graba esto en tu corazón; y si la gloria te embriaga, recuérdalo con el doble de fuerza. Conoce la antigua parábola persa del Anillo de Salomón y la revelación de la impermanencia: «Esto también pasará».\n\n🔔 Suscríbete a Sabiduría y Trascendencia para cultivar tu serenidad interior cada día.\n\n#sabiduria #estoicismo #estotambienpasara #parabolas #filosofia #pazinterior #autocontrol #salomon #reflexiones",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 98.0,
+      "duration_formatted": "1:38",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "esto tambien pasara",
+        "anillo de salomon",
+        "sabiduria persa",
+        "impermanencia",
+        "paz interior",
+        "autocontrol"
+      ],
+      "published": false,
+      "created_at": "2026-11-01",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_264",
+      "db_id": 264,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Liderazgo Cuando Todo Colapsa: La Odisea de Ernest Shackleton",
+      "description": "Cualquiera puede dirigir cuando el mar está en calma; el verdadero líder se revela cuando el barco se tritura y no hay rescate a la vista. Conoce la legendaria hazaña de Sir Ernest Shackleton y la tripulación del Endurance en la Antártida, donde el coraje inquebrantable y la serenidad vencieron al abismo blanco.\n\n🔔 Suscríbete a Sabiduría y Trascendencia para cultivar tu carácter cada día.\n\n#liderazgo #shackleton #resiliencia #estoicismo #endurance #sabiduria #antartida #motivacion #superacion",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 103.6,
+      "duration_formatted": "1:43",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "ernest shackleton",
+        "endurance",
+        "liderazgo",
+        "resiliencia",
+        "antartida",
+        "superacion"
+      ],
+      "published": false,
+      "created_at": "2026-11-01",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_263",
+      "db_id": 263,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Fuerza de No Defenderte: La Lección del Maestro Hakuin",
+      "description": "Tu paz mental no depende de lo que otros digan de ti, sino de cuán limpia esté tu propia conciencia. Conoce la historia de Hakuin Ekaku, el maestro Zen que ante la calumnia más destructiva solo respondió «¿Es así?», demostrando que la verdad no necesita gritos para triunfar.\n\n🔔 Suscríbete a Sabiduría y Trascendencia para fortalecer tu mente cada día.\n\n#sabiduria #zen #hakuin #pazinterior #autocontrol #estoicismo #crecimientopersonal #filosofia",
+      "youtube_id": "5dqFo_dmnho",
+      "youtube_url": "https://www.youtube.com/shorts/5dqFo_dmnho",
+      "embed_url": "https://www.youtube-nocookie.com/embed/5dqFo_dmnho",
+      "thumbnail_url": "https://img.youtube.com/vi/5dqFo_dmnho/maxresdefault.jpg",
+      "duration_seconds": 106.5,
+      "duration_formatted": "1:46",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "hakuin ekaku",
+        "filosofia zen",
+        "autocontrol",
+        "paz interior",
+        "sabiduria",
+        "no reaccionar"
+      ],
+      "published": true,
+      "created_at": "2026-11-01",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_262",
       "db_id": 262,
