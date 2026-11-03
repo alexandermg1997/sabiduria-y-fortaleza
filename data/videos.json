@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 250,
-    "published_count": 248,
+    "published_count": 249,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-02 22:10:47 UTC"
+    "last_updated": "2026-11-03 03:19:49 UTC"
   },
   "videos": [
     {
@@ -22,10 +22,10 @@
       "format": "9:16",
       "title": "La Riqueza del Desapego: La Lección de Marie Curie",
       "description": "La grandeza no necesita aplausos ni comodidades; se forja en el sacrificio silencioso de quien entrega su vida por una causa más grande que su propio ego. Conoce la historia de Marie Curie en el cobertizo de la pechblenda, quien rechazó hacerse multimillonaria con las patentes del radio para regalar la cura al mundo entero.\n\n🔔 Suscríbete a Sabiduría y Trascendencia para forjar tu mente cada día.\n\n#mariecurie #ciencia #trascendencia #desapego #altruismo #sabiduria #inspiracion #valores #crecimientopersonal",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "kxjaWUyYzaQ",
+      "youtube_url": "https://www.youtube.com/shorts/kxjaWUyYzaQ",
+      "embed_url": "https://www.youtube-nocookie.com/embed/kxjaWUyYzaQ",
+      "thumbnail_url": "https://img.youtube.com/vi/kxjaWUyYzaQ/maxresdefault.jpg",
       "duration_seconds": 105.1,
       "duration_formatted": "1:45",
       "category": "Reflexiones Profundas",
@@ -37,11 +37,11 @@
         "altruismo",
         "sabiduria"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-01",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
