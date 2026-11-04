@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 254,
-    "published_count": 252,
+    "published_count": 253,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-04 02:32:54 UTC"
+    "last_updated": "2026-11-04 02:47:59 UTC"
   },
   "videos": [
     {
@@ -22,10 +22,10 @@
       "format": "9:16",
       "title": "El Vuelo del Simurg: La Búsqueda Interior de Farid ud-Din Attar",
       "description": "Treinta aves cruzaron siete valles de tormenta buscando al sabio rey de los pájaros. Al llegar a la cima del monte Kaf, solo hallaron un lago cristalino: al mirarse, descubrieron que ellas mismas eran el rey. Lo que buscas afuera ya vive en ti. #FaridAttar #Simurg #Sufismo #MisticaPersa #CrecimientoPersonal #Autoconocimiento #Sabiduria",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "jBkncUhSMUE",
+      "youtube_url": "https://www.youtube.com/shorts/jBkncUhSMUE",
+      "embed_url": "https://www.youtube-nocookie.com/embed/jBkncUhSMUE",
+      "thumbnail_url": "https://img.youtube.com/vi/jBkncUhSMUE/maxresdefault.jpg",
       "duration_seconds": 121.4,
       "duration_formatted": "2:01",
       "category": "Reflexiones Profundas",
@@ -37,11 +37,11 @@
         "autoconocimiento",
         "filosofia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-04",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
