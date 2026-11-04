@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 250,
-    "published_count": 249,
+    "total_videos": 254,
+    "published_count": 250,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,125 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-03 03:19:49 UTC"
+    "last_updated": "2026-11-04 02:11:18 UTC"
   },
   "videos": [
+    {
+      "id": "short_270",
+      "db_id": 270,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Vuelo del Simurg: La Búsqueda Interior de Farid ud-Din Attar",
+      "description": "Treinta aves cruzaron siete valles de tormenta buscando al sabio rey de los pájaros. Al llegar a la cima del monte Kaf, solo hallaron un lago cristalino: al mirarse, descubrieron que ellas mismas eran el rey. Lo que buscas afuera ya vive en ti. #FaridAttar #Simurg #Sufismo #MisticaPersa #CrecimientoPersonal #Autoconocimiento #Sabiduria",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 121.4,
+      "duration_formatted": "2:01",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "attar",
+        "simurg",
+        "sufismo",
+        "sabiduria",
+        "autoconocimiento",
+        "filosofia"
+      ],
+      "published": false,
+      "created_at": "2026-11-04",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_269",
+      "db_id": 269,
+      "type": "short",
+      "format": "9:16",
+      "title": "Cincelar Tu Propia Grandeza: La Lección de Miguel Ángel",
+      "description": "Durante 40 años, un bloque de mármol de 5 metros yacía arruinado en Florencia. Miguel Ángel lo contempló y esculpió el David: «El David ya estaba allí dentro; solo tuve que cincelar todo lo que no era él». El autodominio consiste en retirar lo que sobra para liberar tu potencial. #MiguelAngel #David #Florencia #Autocontrol #Sabiduria #Superacion #Renacimiento",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 95.0,
+      "duration_formatted": "1:35",
+      "category": "Sabiduría Histórica & Fe",
+      "tags": [
+        "miguelangel",
+        "david",
+        "renacimiento",
+        "escultura",
+        "sabiduria",
+        "disciplina"
+      ],
+      "published": false,
+      "created_at": "2026-11-04",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_268",
+      "db_id": 268,
+      "type": "short",
+      "format": "9:16",
+      "title": "Las Visas de la Vida: La Valentía Moral de Chiune Sugihara",
+      "description": "En 1940, el cónsul japonés Chiune Sugihara desafió las órdenes directas de su gobierno y escribió a mano miles de visados de escape para salvar más de 6,000 vidas del holocausto. La verdadera valentía moral es actuar con justicia incluso cuando arriesgas tu carrera y tu seguridad. #ChiuneSugihara #ValentiaMoral #Integridad #HistoriaReal #Sabiduria #Heroes",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 106.0,
+      "duration_formatted": "1:46",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "sugihara",
+        "valentiamoral",
+        "historiareal",
+        "integridad",
+        "sabiduria",
+        "heroes"
+      ],
+      "published": false,
+      "created_at": "2026-11-03",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_267",
+      "db_id": 267,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Arte de Vencer Sin Pelear: La Lección de Miyamoto Musashi",
+      "description": "El legendario espadachín Miyamoto Musashi demostró en el duelo de la isla Ganryu que la verdadera batalla se gana en la mente antes de desenfundar. Cuando no reaccionas a la provocación del ego ajeno, su propia ira lo destruye. #MiyamotoMusashi #Bushido #Autocontrol #Sabiduria #Estoicismo #Filosofia",
+      "youtube_id": "qerNXZF07Vo",
+      "youtube_url": "https://www.youtube.com/shorts/qerNXZF07Vo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/qerNXZF07Vo",
+      "thumbnail_url": "https://img.youtube.com/vi/qerNXZF07Vo/maxresdefault.jpg",
+      "duration_seconds": 108.9,
+      "duration_formatted": "1:48",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "musashi",
+        "bushido",
+        "samurai",
+        "autocontrol",
+        "sabiduria",
+        "estoicismo"
+      ],
+      "published": true,
+      "created_at": "2026-11-03",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_266",
       "db_id": 266,
