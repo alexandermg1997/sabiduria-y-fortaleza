@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 254,
-    "published_count": 251,
+    "published_count": 252,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-04 02:22:29 UTC"
+    "last_updated": "2026-11-04 02:32:54 UTC"
   },
   "videos": [
     {
@@ -51,10 +51,10 @@
       "format": "9:16",
       "title": "Cincelar Tu Propia Grandeza: La Lección de Miguel Ángel",
       "description": "Durante 40 años, un bloque de mármol de 5 metros yacía arruinado en Florencia. Miguel Ángel lo contempló y esculpió el David: «El David ya estaba allí dentro; solo tuve que cincelar todo lo que no era él». El autodominio consiste en retirar lo que sobra para liberar tu potencial. #MiguelAngel #David #Florencia #Autocontrol #Sabiduria #Superacion #Renacimiento",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "uQMRcIGm6oI",
+      "youtube_url": "https://www.youtube.com/shorts/uQMRcIGm6oI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/uQMRcIGm6oI",
+      "thumbnail_url": "https://img.youtube.com/vi/uQMRcIGm6oI/maxresdefault.jpg",
       "duration_seconds": 95.0,
       "duration_formatted": "1:35",
       "category": "Sabiduría Histórica & Fe",
@@ -66,11 +66,11 @@
         "sabiduria",
         "disciplina"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-04",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
