@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 254,
-    "published_count": 250,
+    "published_count": 251,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-04 02:11:18 UTC"
+    "last_updated": "2026-11-04 02:22:29 UTC"
   },
   "videos": [
     {
@@ -80,10 +80,10 @@
       "format": "9:16",
       "title": "Las Visas de la Vida: La Valentía Moral de Chiune Sugihara",
       "description": "En 1940, el cónsul japonés Chiune Sugihara desafió las órdenes directas de su gobierno y escribió a mano miles de visados de escape para salvar más de 6,000 vidas del holocausto. La verdadera valentía moral es actuar con justicia incluso cuando arriesgas tu carrera y tu seguridad. #ChiuneSugihara #ValentiaMoral #Integridad #HistoriaReal #Sabiduria #Heroes",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "SrokcuYGcBI",
+      "youtube_url": "https://www.youtube.com/shorts/SrokcuYGcBI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/SrokcuYGcBI",
+      "thumbnail_url": "https://img.youtube.com/vi/SrokcuYGcBI/maxresdefault.jpg",
       "duration_seconds": 106.0,
       "duration_formatted": "1:46",
       "category": "Héroes & Biografías",
@@ -95,11 +95,11 @@
         "sabiduria",
         "heroes"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-03",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
