@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 259,
-    "published_count": 254,
+    "published_count": 255,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-06 00:19:13 UTC"
+    "last_updated": "2026-11-06 00:30:45 UTC"
   },
   "videos": [
     {
@@ -109,10 +109,10 @@
       "format": "9:16",
       "title": "La Travesía Sin Retorno: La Determinación de Fridtjof Nansen",
       "description": "En 1888, Fridtjof Nansen desembarcó en la desértica costa este de Groenlandia y despidió al barco: la única forma de sobrevivir era cruzar 1,500 km de hielo virgen o morir. Al quemar las naves y eliminar cualquier opción de retirada, la mente desata un potencial invencible. #FridtjofNansen #QuemarLasNaves #Determinacion #Superacion #Exploracion #Filosofia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "EfZPqhQK4gU",
+      "youtube_url": "https://www.youtube.com/shorts/EfZPqhQK4gU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/EfZPqhQK4gU",
+      "thumbnail_url": "https://img.youtube.com/vi/EfZPqhQK4gU/maxresdefault.jpg",
       "duration_seconds": 99.4,
       "duration_formatted": "1:39",
       "category": "Reflexiones Profundas",
@@ -124,11 +124,11 @@
         "superacion",
         "voluntad"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-05",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
