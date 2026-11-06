@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 259,
-    "published_count": 256,
+    "published_count": 257,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-06 00:53:08 UTC"
+    "last_updated": "2026-11-06 01:28:06 UTC"
   },
   "videos": [
     {
@@ -51,10 +51,10 @@
       "format": "9:16",
       "title": "El Bote Vacío: La Sabiduría Taoísta de Chuang Tzu",
       "description": "Si una barca choca contra ti y ves a alguien remando, gritas de ira; pero si la barca está vacía, sonríes en paz. El golpe físico fue igual: lo único que dolió fue tu propio ego creyéndose víctima de una ofensa personal. Vacía tu bote y serás invulnerable. #ChuangTzu #Taoismo #PazInterior #Ego #Autocontrol #Sabiduria #Filosofia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "qxhaAkYeOso",
+      "youtube_url": "https://www.youtube.com/shorts/qxhaAkYeOso",
+      "embed_url": "https://www.youtube-nocookie.com/embed/qxhaAkYeOso",
+      "thumbnail_url": "https://img.youtube.com/vi/qxhaAkYeOso/maxresdefault.jpg",
       "duration_seconds": 97.2,
       "duration_formatted": "1:37",
       "category": "Estoicismo & Templanza",
@@ -66,11 +66,11 @@
         "ego",
         "autocontrol"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-05",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
