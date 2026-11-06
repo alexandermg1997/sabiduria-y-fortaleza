@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 259,
-    "published_count": 255,
+    "published_count": 256,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-06 00:30:45 UTC"
+    "last_updated": "2026-11-06 00:53:08 UTC"
   },
   "videos": [
     {
@@ -80,10 +80,10 @@
       "format": "9:16",
       "title": "La Carta Jamás Enviada: El Secreto del Autocontrol de Abraham Lincoln",
       "description": "Tras la batalla de Gettysburg, un furioso Abraham Lincoln escribió la carta más demoledora de su vida a su general Meade. Pero antes de enviarla, la guardó en un cajón. Quien domina sus impulsos en el momento de mayor ira preserva la grandeza y el futuro. #AbrahamLincoln #Autocontrol #Liderazgo #InteligenciaEmocional #Historia #Sabiduria #Filosofia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "LTO_IY4-fIA",
+      "youtube_url": "https://www.youtube.com/shorts/LTO_IY4-fIA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/LTO_IY4-fIA",
+      "thumbnail_url": "https://img.youtube.com/vi/LTO_IY4-fIA/maxresdefault.jpg",
       "duration_seconds": 109.2,
       "duration_formatted": "1:49",
       "category": "Estoicismo & Templanza",
@@ -95,11 +95,11 @@
         "historia",
         "gettysburg"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-05",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
