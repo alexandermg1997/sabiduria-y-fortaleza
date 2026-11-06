@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 254,
-    "published_count": 253,
+    "total_videos": 259,
+    "published_count": 254,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,154 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-04 02:47:59 UTC"
+    "last_updated": "2026-11-06 00:19:13 UTC"
   },
   "videos": [
+    {
+      "id": "short_275",
+      "db_id": 275,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Conquista de Robben Island: La Lección de Nelson Mandela",
+      "description": "Encerrado durante 27 años en una celda diminuta y obligado a picar piedra, Nelson Mandela aprendió la lengua y la cultura de sus carceleros para tratarlos con una dignidad tan inquebrantable que transformó a sus enemigos en aliados. El verdadero poder reside en dominar el rencor. #NelsonMandela #Perdon #Dignidad #Liderazgo #Historia #Sabiduria #Filosofia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 99.7,
+      "duration_formatted": "1:39",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "nelsonmandela",
+        "robbenisland",
+        "perdon",
+        "dignidad",
+        "liderazgo",
+        "historia"
+      ],
+      "published": false,
+      "created_at": "2026-11-05",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_274",
+      "db_id": 274,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Bote Vacío: La Sabiduría Taoísta de Chuang Tzu",
+      "description": "Si una barca choca contra ti y ves a alguien remando, gritas de ira; pero si la barca está vacía, sonríes en paz. El golpe físico fue igual: lo único que dolió fue tu propio ego creyéndose víctima de una ofensa personal. Vacía tu bote y serás invulnerable. #ChuangTzu #Taoismo #PazInterior #Ego #Autocontrol #Sabiduria #Filosofia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 97.2,
+      "duration_formatted": "1:37",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "chuangtzu",
+        "taoismo",
+        "botevacio",
+        "pazinterior",
+        "ego",
+        "autocontrol"
+      ],
+      "published": false,
+      "created_at": "2026-11-05",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_273",
+      "db_id": 273,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Carta Jamás Enviada: El Secreto del Autocontrol de Abraham Lincoln",
+      "description": "Tras la batalla de Gettysburg, un furioso Abraham Lincoln escribió la carta más demoledora de su vida a su general Meade. Pero antes de enviarla, la guardó en un cajón. Quien domina sus impulsos en el momento de mayor ira preserva la grandeza y el futuro. #AbrahamLincoln #Autocontrol #Liderazgo #InteligenciaEmocional #Historia #Sabiduria #Filosofia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 109.2,
+      "duration_formatted": "1:49",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "abrahamlincoln",
+        "autocontrol",
+        "liderazgo",
+        "inteligenciaemocional",
+        "historia",
+        "gettysburg"
+      ],
+      "published": false,
+      "created_at": "2026-11-05",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_272",
+      "db_id": 272,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Travesía Sin Retorno: La Determinación de Fridtjof Nansen",
+      "description": "En 1888, Fridtjof Nansen desembarcó en la desértica costa este de Groenlandia y despidió al barco: la única forma de sobrevivir era cruzar 1,500 km de hielo virgen o morir. Al quemar las naves y eliminar cualquier opción de retirada, la mente desata un potencial invencible. #FridtjofNansen #QuemarLasNaves #Determinacion #Superacion #Exploracion #Filosofia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 99.4,
+      "duration_formatted": "1:39",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "fridtjofnansen",
+        "groenlandia",
+        "determinacion",
+        "quemarlasnaves",
+        "superacion",
+        "voluntad"
+      ],
+      "published": false,
+      "created_at": "2026-11-05",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_271",
+      "db_id": 271,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Fuerza de la Calma: La Estrategia de Zhuge Liang",
+      "description": "Acorralado frente a un ejército de 150,000 guerreros, el sabio estratega Zhuge Liang abrió las puertas de par en par, subió a la muralla y tocó su cítara con serenidad celestial. El enemigo huyó sin pelear. Quien domina su propia mente proyecta una calma invencible ante el caos. #ZhugeLiang #Estrategia #Autocontrol #Sabiduria #TresReinos #Filosofia",
+      "youtube_id": "_bMETUCNnrs",
+      "youtube_url": "https://www.youtube.com/shorts/_bMETUCNnrs",
+      "embed_url": "https://www.youtube-nocookie.com/embed/_bMETUCNnrs",
+      "thumbnail_url": "https://img.youtube.com/vi/_bMETUCNnrs/maxresdefault.jpg",
+      "duration_seconds": 117.5,
+      "duration_formatted": "1:57",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "zhugeliang",
+        "estrategia",
+        "autocontrol",
+        "sabiduria",
+        "tresreinos",
+        "calma"
+      ],
+      "published": true,
+      "created_at": "2026-11-05",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_270",
       "db_id": 270,
