@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 261,
-    "published_count": 260,
+    "total_videos": 264,
+    "published_count": 261,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,96 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-07 01:49:41 UTC"
+    "last_updated": "2026-11-07 22:42:49 UTC"
   },
   "videos": [
+    {
+      "id": "short_280",
+      "db_id": 280,
+      "type": "short",
+      "format": "9:16",
+      "title": "No Toques Mis Círculos: El Santuario Mental de Arquímedes",
+      "description": "En el 212 a.C., mientras Siracusa ardía en llamas durante la invasión romana, Arquímedes estaba absorto trazando círculos en la arena. Cuando un soldado desenvainó la espada, el sabio defendió su foco hasta el final: ¡No toques mis círculos! Tu mente es tu santuario sagrado. #Arquimedes #Foco #SoberaniaMental #Estoicismo #Concentracion #Serenidad #Filosofia #Trascendencia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 96.6,
+      "duration_formatted": "1:36",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "arquimedes",
+        "foco",
+        "soberaniamental",
+        "estoicismo",
+        "concentracion",
+        "serenidad"
+      ],
+      "published": false,
+      "created_at": "2026-11-07",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_279",
+      "db_id": 279,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Lección del Desierto: Ibn Battuta y la Taza de Agua",
+      "description": "Tras 30 años recorriendo el mundo, el gran explorador Ibn Battuta se jactó de sus viajes ante un ermitaño del Sahara. El sabio le ofreció una taza de agua y le demostró que en la sed del desierto daría todos los reinos de la tierra por ese sorbo. #IbnBattuta #Desapego #Humildad #SabiduriaDelDesierto #Sencillez #Trascendencia #Explorador",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 101.4,
+      "duration_formatted": "1:41",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "ibnbattuta",
+        "desapego",
+        "humildad",
+        "sabiduriadeldesierto",
+        "sencillez",
+        "trascendencia"
+      ],
+      "published": false,
+      "created_at": "2026-11-07",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_278",
+      "db_id": 278,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Genio que Rompió su Fortuna: El Sacrificio de Nikola Tesla",
+      "description": "En 1897, Nikola Tesla tenía un contrato de patentes que lo habría convertido en el hombre más rico del planeta. Cuando Westinghouse estuvo al borde de la quiebra, Tesla rompió el contrato en pedazos con sus propias manos para que la corriente alterna iluminara al mundo. #NikolaTesla #Genio #Sacrificio #Vocacion #Generosidad #Electricidad #Sabiduria #Trascendencia",
+      "youtube_id": "vJHZofky6tc",
+      "youtube_url": "https://www.youtube.com/shorts/vJHZofky6tc",
+      "embed_url": "https://www.youtube-nocookie.com/embed/vJHZofky6tc",
+      "thumbnail_url": "https://img.youtube.com/vi/vJHZofky6tc/maxresdefault.jpg",
+      "duration_seconds": 112.9,
+      "duration_formatted": "1:52",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "nikolatesla",
+        "genio",
+        "sacrificio",
+        "vocacion",
+        "generosidad",
+        "electricidad"
+      ],
+      "published": true,
+      "created_at": "2026-11-07",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_277",
       "db_id": 277,
