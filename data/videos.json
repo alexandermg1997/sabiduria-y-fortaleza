@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 259,
-    "published_count": 258,
+    "total_videos": 261,
+    "published_count": 259,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,67 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-06 01:43:47 UTC"
+    "last_updated": "2026-11-07 00:50:25 UTC"
   },
   "videos": [
+    {
+      "id": "short_277",
+      "db_id": 277,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Último Paseo de los Huérfanos: La Dignidad de Janusz Korczak",
+      "description": "En agosto de 1942, ofrecieron a Janusz Korczak un salvoconducto para salvar su vida antes de la deportación a Treblinka. Se negó rotundamente: no se abandona a los inocentes. Vistió a sus 200 huérfanos con sus mejores ropas y marchó con ellos al tren cantando con la cabeza erguida. #JanuszKorczak #Dignidad #ValentiaMoral #Liderazgo #AmorIncondicional #Trascendencia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 116.2,
+      "duration_formatted": "1:56",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "januszkorczak",
+        "dignidad",
+        "valentiamoral",
+        "liderazgo",
+        "amorincondicional",
+        "coraje"
+      ],
+      "published": false,
+      "created_at": "2026-11-07",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_276",
+      "db_id": 276,
+      "type": "short",
+      "format": "9:16",
+      "title": "Kintsugi: La Belleza de las Heridas Doradas",
+      "description": "En el siglo XV, el shogun Ashikaga Yoshimasa rompió su cuenco de té predilecto. En lugar de ocultar la rotura o desecharlo, artesanos japoneses unieron los pedazos con oro puro: nació el Kintsugi. Las cicatrices sanadas con sabiduría son infinitamente más valiosas que la perfección intacta. #Kintsugi #WabiSabi #Resiliencia #Sabiduria #Superacion #Filosofia",
+      "youtube_id": "S2o1zDb6rU8",
+      "youtube_url": "https://www.youtube.com/shorts/S2o1zDb6rU8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/S2o1zDb6rU8",
+      "thumbnail_url": "https://img.youtube.com/vi/S2o1zDb6rU8/maxresdefault.jpg",
+      "duration_seconds": 107.1,
+      "duration_formatted": "1:47",
+      "category": "Crecimiento Personal",
+      "tags": [
+        "kintsugi",
+        "wabisabi",
+        "resiliencia",
+        "filosofia",
+        "superacion",
+        "sabiduria"
+      ],
+      "published": true,
+      "created_at": "2026-11-06",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_275",
       "db_id": 275,
