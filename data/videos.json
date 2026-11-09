@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 264,
-    "published_count": 263,
+    "total_videos": 267,
+    "published_count": 264,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,96 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-07 23:59:37 UTC"
+    "last_updated": "2026-11-09 15:47:07 UTC"
   },
   "videos": [
+    {
+      "id": "short_283",
+      "db_id": 283,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Arte de No Caer en la Provocación: La Paciencia de Quinto Fabio Máximo",
+      "description": "En el 217 a.C., Aníbal asolaba Italia provocando a Roma para forzarla a una batalla campal suicida. Quinto Fabio Máximo soportó que lo llamaran cobarde y resistió las presiones en silencio, desgastando al enemigo hasta salvar la República. El mayor error cuando te provocan es pelear en el terreno que tu enemigo eligió. Tu serenidad es tu arma más invencible. #FabioMaximo #RomaAntigua #Estoicismo #Autocontrol #Paciencia #Estrategia #Sabiduria #Trascendencia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 100.4,
+      "duration_formatted": "1:40",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "fabiomaximo",
+        "romaantigua",
+        "estoicismo",
+        "autocontrol",
+        "paciencia",
+        "estrategia"
+      ],
+      "published": false,
+      "created_at": "2026-11-08",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_282",
+      "db_id": 282,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Preparación Silenciosa: La Lección de Roald Amundsen en el Fin del Mundo",
+      "description": "En 1911, en la carrera mortal hacia el Polo Sur, la improvisación y la soberbia costaron vidas. Roald Amundsen convivió años con los inuit en el Ártico, perfeccionó cada prenda y calculó cada caloría en silencio. Conquistó el fin del mundo y devolvió a todos sus hombres vivos. La suerte es la excusa de los improvisados; la victoria pertenece a la preparación minuciosa. #RoaldAmundsen #PoloSur #Disciplina #Preparacion #Resiliencia #Superacion #Sabiduria #Trascendencia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 100.0,
+      "duration_formatted": "1:39",
+      "category": "Crecimiento Personal",
+      "tags": [
+        "roaldamundsen",
+        "polosur",
+        "disciplina",
+        "preparacion",
+        "resiliencia",
+        "superacion"
+      ],
+      "published": false,
+      "created_at": "2026-11-08",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_281",
+      "db_id": 281,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Encuentro de Shams y Rumi: El Fuego de la Sabiduría Interior",
+      "description": "En el siglo XIII, Jalal al-Din Rumi era el teólogo más admirado de Konya, sepultado en pergaminos y títulos de honor. Cuando el derviche errante Shams de Tabriz arrojó sus libros al agua y los devolvió completamente secos, Rumi comprendió que el verdadero conocimiento no está en el papel, sino en el corazón libre de ego. #Rumi #ShamsDeTabriz #Sabiduria #Sufismo #Desapego #Humildad #Trascendencia #Espiritualidad",
+      "youtube_id": "0EQ48FDABJk",
+      "youtube_url": "https://www.youtube.com/shorts/0EQ48FDABJk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/0EQ48FDABJk",
+      "thumbnail_url": "https://img.youtube.com/vi/0EQ48FDABJk/maxresdefault.jpg",
+      "duration_seconds": 104.2,
+      "duration_formatted": "1:44",
+      "category": "Reflexiones Profundas",
+      "tags": [
+        "rumi",
+        "shamsdetabriz",
+        "sabiduria",
+        "sufismo",
+        "desapego",
+        "humildad"
+      ],
+      "published": true,
+      "created_at": "2026-11-08",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_280",
       "db_id": 280,
