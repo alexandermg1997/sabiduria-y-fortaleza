@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 269,
-    "published_count": 265,
+    "published_count": 266,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-09 21:41:47 UTC"
+    "last_updated": "2026-11-09 22:25:24 UTC"
   },
   "videos": [
     {
@@ -80,10 +80,10 @@
       "format": "9:16",
       "title": "El Arte de No Caer en la Provocación: La Paciencia de Quinto Fabio Máximo",
       "description": "En el 217 a.C., Aníbal asolaba Italia provocando a Roma para forzarla a una batalla campal suicida. Quinto Fabio Máximo soportó que lo llamaran cobarde y resistió las presiones en silencio, desgastando al enemigo hasta salvar la República. El mayor error cuando te provocan es pelear en el terreno que tu enemigo eligió. Tu serenidad es tu arma más invencible. #FabioMaximo #RomaAntigua #Estoicismo #Autocontrol #Paciencia #Estrategia #Sabiduria #Trascendencia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "Hr-YBh44zeY",
+      "youtube_url": "https://www.youtube.com/shorts/Hr-YBh44zeY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Hr-YBh44zeY",
+      "thumbnail_url": "https://img.youtube.com/vi/Hr-YBh44zeY/maxresdefault.jpg",
       "duration_seconds": 100.4,
       "duration_formatted": "1:40",
       "category": "Estoicismo & Templanza",
@@ -95,11 +95,11 @@
         "paciencia",
         "estrategia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-08",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
