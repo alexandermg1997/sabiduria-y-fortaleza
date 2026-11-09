@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 267,
-    "published_count": 264,
+    "total_videos": 269,
+    "published_count": 265,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,67 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-09 15:47:07 UTC"
+    "last_updated": "2026-11-09 21:41:47 UTC"
   },
   "videos": [
+    {
+      "id": "short_285",
+      "db_id": 285,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Mente Sin Miedo: La Lección del Maestro de Té y la Katana",
+      "description": "En el Japón feudal, un maestro del té fue retado a un duelo a muerte por un temible samurai. Sin saber empuñar una espada, aprendió a sostener el filo con la misma presencia y serenidad absoluta con la que servía el té. Al amanecer, frente a una mente que ya había vencido al miedo a la muerte, el samurai arrojó su katana de rodillas. Quien domina su propia mente no necesita levantar la voz ni pelear para ganar. #MaestroZen #Bushido #Samurai #PazInterior #Estoicismo #DominioMental #Sabiduria #Trascendencia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 114.6,
+      "duration_formatted": "1:54",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "maestrozen",
+        "bushido",
+        "samurai",
+        "pazinterior",
+        "estoicismo",
+        "dominiomental"
+      ],
+      "published": false,
+      "created_at": "2026-11-09",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_284",
+      "db_id": 284,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Venganza Más Noble: La Lección de Marco Aurelio ante la Traición",
+      "description": "En el 175 d.C., su general más querido, Avidio Casio, traicionó a Roma autoproclamándose emperador. Cuando el Senado exigió venganza sangrienta, Marco Aurelio marchó para perdonarlo; y al recibir la cabeza decapitada de su rival en una bandeja de plata, apartó la mirada llorando y ordenó honores imperiales para su entierro. El mayor castigo para quien intentó destruirte es negarte a parecerte a él jamás. Tu integridad es tu mayor victoria. #MarcoAurelio #Estoicismo #Perdon #Grandeza #Filosofia #Resiliencia #Sabiduria #Trascendencia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 120.3,
+      "duration_formatted": "2:00",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "marcoaurelio",
+        "estoicismo",
+        "perdon",
+        "grandeza",
+        "filosofia",
+        "resiliencia"
+      ],
+      "published": false,
+      "created_at": "2026-11-09",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
     {
       "id": "short_283",
       "db_id": 283,
@@ -51,10 +109,10 @@
       "format": "9:16",
       "title": "La Preparación Silenciosa: La Lección de Roald Amundsen en el Fin del Mundo",
       "description": "En 1911, en la carrera mortal hacia el Polo Sur, la improvisación y la soberbia costaron vidas. Roald Amundsen convivió años con los inuit en el Ártico, perfeccionó cada prenda y calculó cada caloría en silencio. Conquistó el fin del mundo y devolvió a todos sus hombres vivos. La suerte es la excusa de los improvisados; la victoria pertenece a la preparación minuciosa. #RoaldAmundsen #PoloSur #Disciplina #Preparacion #Resiliencia #Superacion #Sabiduria #Trascendencia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "xqKi7BKZtfs",
+      "youtube_url": "https://www.youtube.com/shorts/xqKi7BKZtfs",
+      "embed_url": "https://www.youtube-nocookie.com/embed/xqKi7BKZtfs",
+      "thumbnail_url": "https://img.youtube.com/vi/xqKi7BKZtfs/maxresdefault.jpg",
       "duration_seconds": 100.0,
       "duration_formatted": "1:39",
       "category": "Crecimiento Personal",
@@ -66,11 +124,11 @@
         "resiliencia",
         "superacion"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-08",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
