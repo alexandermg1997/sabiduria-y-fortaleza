@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 269,
-    "published_count": 266,
+    "published_count": 267,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-09 22:25:24 UTC"
+    "last_updated": "2026-11-10 01:24:51 UTC"
   },
   "videos": [
     {
@@ -51,10 +51,10 @@
       "format": "9:16",
       "title": "La Venganza Más Noble: La Lección de Marco Aurelio ante la Traición",
       "description": "En el 175 d.C., su general más querido, Avidio Casio, traicionó a Roma autoproclamándose emperador. Cuando el Senado exigió venganza sangrienta, Marco Aurelio marchó para perdonarlo; y al recibir la cabeza decapitada de su rival en una bandeja de plata, apartó la mirada llorando y ordenó honores imperiales para su entierro. El mayor castigo para quien intentó destruirte es negarte a parecerte a él jamás. Tu integridad es tu mayor victoria. #MarcoAurelio #Estoicismo #Perdon #Grandeza #Filosofia #Resiliencia #Sabiduria #Trascendencia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "46zk1an-QOk",
+      "youtube_url": "https://www.youtube.com/shorts/46zk1an-QOk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/46zk1an-QOk",
+      "thumbnail_url": "https://img.youtube.com/vi/46zk1an-QOk/maxresdefault.jpg",
       "duration_seconds": 120.3,
       "duration_formatted": "2:00",
       "category": "Estoicismo & Templanza",
@@ -66,11 +66,11 @@
         "filosofia",
         "resiliencia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-09",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
