@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 269,
-    "published_count": 267,
+    "published_count": 268,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-10 01:24:51 UTC"
+    "last_updated": "2026-11-10 01:35:56 UTC"
   },
   "videos": [
     {
@@ -22,10 +22,10 @@
       "format": "9:16",
       "title": "La Mente Sin Miedo: La Lección del Maestro de Té y la Katana",
       "description": "En el Japón feudal, un maestro del té fue retado a un duelo a muerte por un temible samurai. Sin saber empuñar una espada, aprendió a sostener el filo con la misma presencia y serenidad absoluta con la que servía el té. Al amanecer, frente a una mente que ya había vencido al miedo a la muerte, el samurai arrojó su katana de rodillas. Quien domina su propia mente no necesita levantar la voz ni pelear para ganar. #MaestroZen #Bushido #Samurai #PazInterior #Estoicismo #DominioMental #Sabiduria #Trascendencia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "Xeqip8iFbAs",
+      "youtube_url": "https://www.youtube.com/shorts/Xeqip8iFbAs",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Xeqip8iFbAs",
+      "thumbnail_url": "https://img.youtube.com/vi/Xeqip8iFbAs/maxresdefault.jpg",
       "duration_seconds": 114.6,
       "duration_formatted": "1:54",
       "category": "Estoicismo & Templanza",
@@ -37,11 +37,11 @@
         "estoicismo",
         "dominiomental"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-09",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
