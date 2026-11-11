@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 274,
-    "published_count": 270,
+    "published_count": 271,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-11 13:58:44 UTC"
+    "last_updated": "2026-11-11 14:14:37 UTC"
   },
   "videos": [
     {
@@ -80,10 +80,10 @@
       "format": "9:16",
       "title": "Las Manos Vacías del Conquistador: La Última Lección de Alejandro Magno",
       "description": "En su lecho de muerte en Babilonia tras conquistar el mundo conocido, Alejandro Magno exigió tres deseos: que los médicos cargaran su ataúd, que sus riquezas cubrieran el camino, y que sus manos colgaran vacías hacia el cielo: «Vine a este mundo con las manos vacías, y me voy con las manos vacías». No vivas encadenado a la codicia ni a la soberbia terrenal; lo único que trasciende es la grandeza de tu alma. #AlejandroMagno #Estoicismo #Muerte #Desapego #Sabiduria #HistoriaAntigua #Trascendencia #Filosofia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "aF67oZrI8bk",
+      "youtube_url": "https://www.youtube.com/shorts/aF67oZrI8bk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/aF67oZrI8bk",
+      "thumbnail_url": "https://img.youtube.com/vi/aF67oZrI8bk/maxresdefault.jpg",
       "duration_seconds": 100.3,
       "duration_formatted": "1:40",
       "category": "Estoicismo & Templanza",
@@ -95,11 +95,11 @@
         "sabiduria",
         "historiaantigua"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-11",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
