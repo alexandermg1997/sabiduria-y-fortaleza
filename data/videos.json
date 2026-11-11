@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 274,
-    "published_count": 269,
+    "published_count": 270,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-11 03:51:24 UTC"
+    "last_updated": "2026-11-11 13:58:44 UTC"
   },
   "videos": [
     {
@@ -109,10 +109,10 @@
       "format": "9:16",
       "title": "La Dignidad en lo Pequeño: La Lección de Epaminondas en las Cloacas",
       "description": "Tras derrotar al invencible ejército espartano, rivales envidiosos degradaron al general Epaminondas a limpiar las cloacas de Tebas. Lejos de ofenderse, transformó el sistema en el más limpio y admirable de Grecia: «El puesto no honra al hombre; es el hombre quien honra al puesto». No importa la tarea que enfrentes hoy: hazla con tanta nobleza y excelencia que nadie pueda ignorar tu grandeza. #Epaminondas #Estoicismo #Humildad #Excelencia #Liderazgo #FilosofiaGriega #Sabiduria #Trascendencia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "U7ISNEJMZ1M",
+      "youtube_url": "https://www.youtube.com/shorts/U7ISNEJMZ1M",
+      "embed_url": "https://www.youtube-nocookie.com/embed/U7ISNEJMZ1M",
+      "thumbnail_url": "https://img.youtube.com/vi/U7ISNEJMZ1M/maxresdefault.jpg",
       "duration_seconds": 104.5,
       "duration_formatted": "1:44",
       "category": "Estoicismo & Templanza",
@@ -124,11 +124,11 @@
         "liderazgo",
         "filosofiagriega"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-10",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
