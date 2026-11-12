@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 274,
-    "published_count": 271,
+    "published_count": 272,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-11 14:14:37 UTC"
+    "last_updated": "2026-11-12 00:10:24 UTC"
   },
   "videos": [
     {
@@ -51,10 +51,10 @@
       "format": "9:16",
       "title": "El Despertar de la Compasión: El Rey Ashoka tras la Batalla de Kalinga",
       "description": "Temido como Ashoka El Cruel, el emperador de la India conquistó el reino de Kalinga dejando cien mil muertos tras de sí. Pero al caminar bajo la lluvia entre las cenizas y el llanto de los inocentes, comprendió que la verdadera victoria jamás se conquista con sangre. Arrojó su espada al río, erigió edictos de paz por toda Asia y transformó su poder en un legado de compasión eterna. #Ashoka #Kalinga #Compasion #Redencion #Sabiduria #HistoriaDeLaIndia #Trascendencia #Filosofia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "f_HIr2Dku0k",
+      "youtube_url": "https://www.youtube.com/shorts/f_HIr2Dku0k",
+      "embed_url": "https://www.youtube-nocookie.com/embed/f_HIr2Dku0k",
+      "thumbnail_url": "https://img.youtube.com/vi/f_HIr2Dku0k/maxresdefault.jpg",
       "duration_seconds": 114.7,
       "duration_formatted": "1:54",
       "category": "Héroes & Biografías",
@@ -66,11 +66,11 @@
         "sabiduria",
         "historiadelaindia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-11",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
