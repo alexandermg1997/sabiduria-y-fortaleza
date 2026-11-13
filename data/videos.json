@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 274,
-    "published_count": 273,
+    "total_videos": 277,
+    "published_count": 274,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,96 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-12 01:33:19 UTC"
+    "last_updated": "2026-11-13 02:34:22 UTC"
   },
   "videos": [
+    {
+      "id": "short_293",
+      "db_id": 293,
+      "type": "short",
+      "format": "9:16",
+      "title": "El Almirante Yi Sun-sin: Traicionado por su Rey, Invencible con Doce Barcos",
+      "description": "Encarcelado, torturado y degradado por la envidia de la corte, el Almirante Yi Sun-sin nunca guardó rencor. Cuando la flota de su reino colapsó y solo le quedaron 12 barcos maltrechos frente a más de 130 naves invasoras, el rey le ordenó huir y disolver la armada. Yi respondió: «Aún me quedan doce barcos... y mientras yo viva, ningún enemigo dominará nuestros mares». En el estrecho de Myeongnyang resistió en solitario, dio vuelta a la marea y salvó a su nación sin perder un solo buque. #YiSunsin #HistoriaMundial #Liderazgo #Coraje #Resiliencia #Sabiduria #Honor #Filosofia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 144.5,
+      "duration_formatted": "2:24",
+      "category": "Sabiduría Histórica & Fe",
+      "tags": [
+        "yisunsin",
+        "historiamundial",
+        "corea",
+        "joseon",
+        "liderazgo",
+        "coraje"
+      ],
+      "published": false,
+      "created_at": "2026-11-12",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_292",
+      "db_id": 292,
+      "type": "short",
+      "format": "9:16",
+      "title": "Ibn al-Haytham (Alhazen): Diez Años Encerrado a Oscuras para Descubrir la Luz",
+      "description": "Convocado por el califa de El Cairo para domar el Nilo, Ibn al-Haytham descubrió que la obra era inviable y para no mentir ni morir fingió locura. Confinado durante diez años a oscuras en una celda de piedra, observó un diminuto orificio por donde se colaba la luz exterior: inventó la cámara oscura, derrocó las teorías griegas y fundó el método científico experimental moderno. No puedes controlar las cuatro paredes de tu celda, pero sí la luz de tu mente. #Alhazen #IbnalHaytham #Ciencia #Optica #MetodoCientifico #Historia #Resiliencia #Sabiduria #Filosofia",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 148.1,
+      "duration_formatted": "2:28",
+      "category": "Crecimiento Personal",
+      "tags": [
+        "alhazen",
+        "ibnalhaytham",
+        "ciencia",
+        "optica",
+        "metodocientifico",
+        "resiliencia"
+      ],
+      "published": false,
+      "created_at": "2026-11-12",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
+    {
+      "id": "short_291",
+      "db_id": 291,
+      "type": "short",
+      "format": "9:16",
+      "title": "Nezahualcóyotl: El Príncipe Fugitivo que Dormía en los Árboles y Forjó Texcoco",
+      "description": "Antes de ser llamado el rey más sabio de América, Nezahualcóyotl vio caer a su padre y vivió años perseguido ocultándose entre troncos huecos y disfrazado de humilde labrador. Cuando recuperó el trono de Texcoco, eligió el perdón sobre la venganza, construyó escuelas y acueductos, y jamás puso a su familia por encima de la ley. Quien no se quiebra en la persecución tampoco se corrompe en el poder. #Nezahualcoyotl #HistoriaDeMexico #Sabiduria #Liderazgo #Integridad #Estoicismo #Trascendencia #Filosofia",
+      "youtube_id": "6OpbR74Y6XA",
+      "youtube_url": "https://www.youtube.com/shorts/6OpbR74Y6XA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/6OpbR74Y6XA",
+      "thumbnail_url": "https://img.youtube.com/vi/6OpbR74Y6XA/maxresdefault.jpg",
+      "duration_seconds": 125.2,
+      "duration_formatted": "2:05",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "nezahualcoyotl",
+        "historiademexico",
+        "texcoco",
+        "sabiduria",
+        "integridad",
+        "liderazgo"
+      ],
+      "published": true,
+      "created_at": "2026-11-12",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_290",
       "db_id": 290,
