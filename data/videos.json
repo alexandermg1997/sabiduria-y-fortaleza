@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 277,
-    "published_count": 274,
+    "total_videos": 278,
+    "published_count": 275,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-13 02:34:22 UTC"
+    "last_updated": "2026-11-14 02:59:10 UTC"
   },
   "videos": [
+    {
+      "id": "short_294",
+      "db_id": 294,
+      "type": "short",
+      "format": "9:16",
+      "title": "Fiódor Dostoyevski: Los Cinco Minutos en la Nieve que Despertaron su Alma #Shorts",
+      "description": "En diciembre de 1849, en la plaza Semiónovski de San Petersburgo, el joven Fiódor Dostoyevski creyó que le quedaban solo cinco minutos de vida. En lugar de desesperar, dividió esos instantes para despedirse de sus compañeros, contemplar la naturaleza y mirar el destello dorado de una catedral bajo el sol invernal. Cuando un mensajero imperial anunció la conmutación de su condena por años de retiro y trabajo en Siberia, Dostoyevski comprendió que el verdadero infierno es desperdiciar la vida sin ver su milagro.\n\n#Shorts #Dostoyevski #Filosofia #Sabiduria #Estoicismo #Historia #Literatura #Reflexion",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 141.5,
+      "duration_formatted": "2:21",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Dostoyevski",
+        "Fiodor Dostoyevski",
+        "Sabiduria",
+        "Filosofia",
+        "Historia"
+      ],
+      "published": false,
+      "created_at": "2026-11-13",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
     {
       "id": "short_293",
       "db_id": 293,
@@ -51,10 +80,10 @@
       "format": "9:16",
       "title": "Ibn al-Haytham (Alhazen): Diez Años Encerrado a Oscuras para Descubrir la Luz",
       "description": "Convocado por el califa de El Cairo para domar el Nilo, Ibn al-Haytham descubrió que la obra era inviable y para no mentir ni morir fingió locura. Confinado durante diez años a oscuras en una celda de piedra, observó un diminuto orificio por donde se colaba la luz exterior: inventó la cámara oscura, derrocó las teorías griegas y fundó el método científico experimental moderno. No puedes controlar las cuatro paredes de tu celda, pero sí la luz de tu mente. #Alhazen #IbnalHaytham #Ciencia #Optica #MetodoCientifico #Historia #Resiliencia #Sabiduria #Filosofia",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "FrBDSysWmwA",
+      "youtube_url": "https://www.youtube.com/shorts/FrBDSysWmwA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/FrBDSysWmwA",
+      "thumbnail_url": "https://img.youtube.com/vi/FrBDSysWmwA/maxresdefault.jpg",
       "duration_seconds": 148.1,
       "duration_formatted": "2:28",
       "category": "Crecimiento Personal",
@@ -66,11 +95,11 @@
         "metodocientifico",
         "resiliencia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-12",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
