@@ -3,7 +3,7 @@
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
     "total_videos": 278,
-    "published_count": 276,
+    "published_count": 277,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,7 +12,7 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-14 03:07:50 UTC"
+    "last_updated": "2026-11-14 03:41:37 UTC"
   },
   "videos": [
     {
@@ -22,10 +22,10 @@
       "format": "9:16",
       "title": "Fiódor Dostoyevski: Los Cinco Minutos en la Nieve que Despertaron su Alma #Shorts",
       "description": "En diciembre de 1849, en la plaza Semiónovski de San Petersburgo, el joven Fiódor Dostoyevski creyó que le quedaban solo cinco minutos de vida. En lugar de desesperar, dividió esos instantes para despedirse de sus compañeros, contemplar la naturaleza y mirar el destello dorado de una catedral bajo el sol invernal. Cuando un mensajero imperial anunció la conmutación de su condena por años de retiro y trabajo en Siberia, Dostoyevski comprendió que el verdadero infierno es desperdiciar la vida sin ver su milagro.\n\n#Shorts #Dostoyevski #Filosofia #Sabiduria #Estoicismo #Historia #Literatura #Reflexion",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "E45eZYEYG84",
+      "youtube_url": "https://www.youtube.com/shorts/E45eZYEYG84",
+      "embed_url": "https://www.youtube-nocookie.com/embed/E45eZYEYG84",
+      "thumbnail_url": "https://img.youtube.com/vi/E45eZYEYG84/maxresdefault.jpg",
       "duration_seconds": 141.5,
       "duration_formatted": "2:21",
       "category": "Héroes & Biografías",
@@ -37,11 +37,11 @@
         "Filosofia",
         "Historia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-13",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
