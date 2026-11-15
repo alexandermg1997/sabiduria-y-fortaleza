@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 278,
-    "published_count": 277,
+    "total_videos": 279,
+    "published_count": 278,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-14 03:41:37 UTC"
+    "last_updated": "2026-11-15 22:27:38 UTC"
   },
   "videos": [
+    {
+      "id": "short_295",
+      "db_id": 295,
+      "type": "short",
+      "format": "9:16",
+      "title": "Florence Nightingale: La Mujer que Venció la Oscuridad con una Lámpara y Matemáticas #Shorts",
+      "description": "Florence Nightingale rechazó la comodidad de la aristocracia británica para acudir al hospital de Escutari en 1854. Allí descubrió que el abandono y la falta de higiene causaban diez veces más pérdidas que cualquier otra causa. Con una lámpara en la mano por las noches y revolucionarios diagramas estadísticos por el día, transformó la medicina moderna para siempre.\n\n#Shorts #FlorenceNightingale #Historia #Ciencia #Sabiduria #Superacion #Medicina #Inspiracion",
+      "youtube_id": "LkzpkS6WU4A",
+      "youtube_url": "https://www.youtube.com/shorts/LkzpkS6WU4A",
+      "embed_url": "https://www.youtube-nocookie.com/embed/LkzpkS6WU4A",
+      "thumbnail_url": "https://img.youtube.com/vi/LkzpkS6WU4A/maxresdefault.jpg",
+      "duration_seconds": 151.6,
+      "duration_formatted": "2:31",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Florence Nightingale",
+        "Historia",
+        "Ciencia",
+        "Sabiduria",
+        "MujeresHistoricas"
+      ],
+      "published": true,
+      "created_at": "2026-11-15",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_294",
       "db_id": 294,
