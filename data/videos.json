@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 279,
-    "published_count": 278,
+    "total_videos": 280,
+    "published_count": 279,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-15 22:27:38 UTC"
+    "last_updated": "2026-11-16 19:28:06 UTC"
   },
   "videos": [
+    {
+      "id": "short_300",
+      "db_id": 300,
+      "type": "short",
+      "format": "9:16",
+      "title": "Pakal el Grande: El Rey Maya que Construyó un Puente al Cosmos #Shorts",
+      "description": "Descubre la asombrosa historia de Pakal el Grande, el enigmático rey maya de Palenque que no solo gobernó un imperio, sino que construyó un puente simbólico hacia el cosmos. Explora su legado arquitectónico, su profunda sabiduría astronómica y el misterio de su sarcófago, que aún hoy nos invita a mirar más allá de lo terrenal. Un viaje fascinante al corazón de la civilización maya. #Shorts #Sabiduria #Historia #Filosofia #PakalElGrande #Mayas #Palenque #Cosmos #ArquitecturaAncestral #MisteriosMayas",
+      "youtube_id": "Rbqfkb0h7iE",
+      "youtube_url": "https://www.youtube.com/shorts/Rbqfkb0h7iE",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Rbqfkb0h7iE",
+      "thumbnail_url": "https://img.youtube.com/vi/Rbqfkb0h7iE/maxresdefault.jpg",
+      "duration_seconds": 167.9,
+      "duration_formatted": "2:47",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Pakal el Grande",
+        "Mayas"
+      ],
+      "published": true,
+      "created_at": "2026-11-16",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_295",
       "db_id": 295,
