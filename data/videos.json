@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 280,
-    "published_count": 279,
+    "total_videos": 281,
+    "published_count": 280,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,12 +12,41 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-16 19:28:06 UTC"
+    "last_updated": "2026-11-17 03:58:15 UTC"
   },
   "videos": [
     {
-      "id": "short_300",
-      "db_id": 300,
+      "id": "short_297",
+      "db_id": 297,
+      "type": "short",
+      "format": "9:16",
+      "title": "Avicena: El Médico que Sanaba el Alma y la Mente #Shorts",
+      "description": "Descubre la extraordinaria vida de Avicena (Ibn Sina), el sabio persa que revolucionó la medicina y la filosofía uniendo ciencia y espiritualidad.\n\n#Shorts #Avicena #Sabiduria #Historia #Filosofia #Medicina",
+      "youtube_id": "oOeowFwxqr8",
+      "youtube_url": "https://www.youtube.com/shorts/oOeowFwxqr8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/oOeowFwxqr8",
+      "thumbnail_url": "https://img.youtube.com/vi/oOeowFwxqr8/maxresdefault.jpg",
+      "duration_seconds": 155.4,
+      "duration_formatted": "2:35",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "Shorts",
+        "Avicena",
+        "Ibn Sina",
+        "Medicina",
+        "Filosofia",
+        "Sabiduria"
+      ],
+      "published": true,
+      "created_at": "2026-11-17",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
+    {
+      "id": "short_296",
+      "db_id": 296,
       "type": "short",
       "format": "9:16",
       "title": "Pakal el Grande: El Rey Maya que Construyó un Puente al Cosmos #Shorts",
