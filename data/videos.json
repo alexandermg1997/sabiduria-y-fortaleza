@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 285,
-    "published_count": 284,
+    "total_videos": 286,
+    "published_count": 285,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-20 01:49:51 UTC"
+    "last_updated": "2026-11-20 22:04:28 UTC"
   },
   "videos": [
+    {
+      "id": "short_302",
+      "db_id": 302,
+      "type": "short",
+      "format": "9:16",
+      "title": "Pachacútec: El Príncipe que Transformó un Pueblo en el Imperio del Sol #Shorts",
+      "description": "Descubre la asombrosa historia de Pachacútec, el príncipe inca que, con una visión sin precedentes, transformó un pequeño reino en el poderoso Imperio del Sol. Un viaje inspirador a través de su liderazgo, la majestuosidad de la arquitectura andina y la profunda sabiduría de una civilización milenaria. Conoce al forjador de un legado eterno.\n#Shorts #Sabiduria #Historia #Filosofia #Incas #Pachacutec #ImperioDelSol #Andes #CulturaInca #Liderazgo #CivilizacionesAntiguas #Visionario",
+      "youtube_id": "SYSsoFSCXPY",
+      "youtube_url": "https://www.youtube.com/shorts/SYSsoFSCXPY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/SYSsoFSCXPY",
+      "thumbnail_url": "https://img.youtube.com/vi/SYSsoFSCXPY/maxresdefault.jpg",
+      "duration_seconds": 157.6,
+      "duration_formatted": "2:37",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Pachacutec",
+        "Incas"
+      ],
+      "published": true,
+      "created_at": "2026-11-20",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_301",
       "db_id": 301,
