@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 287,
-    "published_count": 286,
+    "total_videos": 288,
+    "published_count": 287,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-21 19:47:45 UTC"
+    "last_updated": "2026-11-22 17:12:22 UTC"
   },
   "videos": [
+    {
+      "id": "short_304",
+      "db_id": 304,
+      "type": "short",
+      "format": "9:16",
+      "title": "Hatshepsut: La Faraona Que Reinó en la Tierra y Alcanzó las Estrellas #Shorts",
+      "description": "Descubre la asombrosa historia de Hatshepsut, la faraona que desafió las normas para gobernar el antiguo Egipto con una visión sin igual. Un viaje a través de su legado de paz, prosperidad y majestuosas construcciones que la elevaron a las estrellas. ¡Inspírate con su audacia y sabiduría! #Shorts #Sabiduria #Historia #Egipto #Hatshepsut #Faraona #Legado #AntiguoEgipto #Empoderamiento",
+      "youtube_id": "sSHWHrnqlNA",
+      "youtube_url": "https://www.youtube.com/shorts/sSHWHrnqlNA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/sSHWHrnqlNA",
+      "thumbnail_url": "https://img.youtube.com/vi/sSHWHrnqlNA/maxresdefault.jpg",
+      "duration_seconds": 204.1,
+      "duration_formatted": "3:24",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Egipto",
+        "Hatshepsut"
+      ],
+      "published": true,
+      "created_at": "2026-11-21",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_303",
       "db_id": 303,
