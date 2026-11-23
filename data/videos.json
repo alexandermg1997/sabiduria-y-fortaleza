@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 288,
-    "published_count": 287,
+    "total_videos": 289,
+    "published_count": 288,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-22 17:12:22 UTC"
+    "last_updated": "2026-11-23 02:20:02 UTC"
   },
   "videos": [
+    {
+      "id": "short_305",
+      "db_id": 305,
+      "type": "short",
+      "format": "9:16",
+      "title": "Wang Yangming: El Filósofo que Descubrió la Verdad en la Solitud de una Cueva #Shorts",
+      "description": "Descubre la historia real de Wang Yangming, el pensador de la dinastía Ming que revolucionó la filosofía oriental desde una remota cueva en Guizhou en 1508. Su búsqueda interior transformó el pensamiento humano. #Shorts #Sabiduria #Historia #Filosofia #WangYangming",
+      "youtube_id": "AtoFFizuKFg",
+      "youtube_url": "https://www.youtube.com/shorts/AtoFFizuKFg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/AtoFFizuKFg",
+      "thumbnail_url": "https://img.youtube.com/vi/AtoFFizuKFg/maxresdefault.jpg",
+      "duration_seconds": 102.2,
+      "duration_formatted": "1:42",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "WangYangming",
+        "DinastiaMing"
+      ],
+      "published": true,
+      "created_at": "2026-11-23",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_304",
       "db_id": 304,
