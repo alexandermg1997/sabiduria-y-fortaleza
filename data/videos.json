@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 289,
-    "published_count": 288,
+    "total_videos": 290,
+    "published_count": 289,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-23 02:20:02 UTC"
+    "last_updated": "2026-11-23 14:53:54 UTC"
   },
   "videos": [
+    {
+      "id": "short_306",
+      "db_id": 306,
+      "type": "short",
+      "format": "9:16",
+      "title": "In Ixtli, In Yollotl: El Secreto para Forjar un Corazón de Piedra Fina #Shorts",
+      "description": "Descubre la filosofía de los Tlamatinime, los sabios nahuas que enseñaban a esculpir el alma como una piedra preciosa. Aprende el concepto de In Ixtli, In Yollotl para transformar tu identidad hoy mismo. #Shorts #Sabiduria #Historia #Filosofia #Mexico",
+      "youtube_id": "zb4QI2Q6F1s",
+      "youtube_url": "https://www.youtube.com/shorts/zb4QI2Q6F1s",
+      "embed_url": "https://www.youtube-nocookie.com/embed/zb4QI2Q6F1s",
+      "thumbnail_url": "https://img.youtube.com/vi/zb4QI2Q6F1s/maxresdefault.jpg",
+      "duration_seconds": 88.6,
+      "duration_formatted": "1:28",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Nahuatl",
+        "Tenochtitlan"
+      ],
+      "published": true,
+      "created_at": "2026-11-23",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_305",
       "db_id": 305,
