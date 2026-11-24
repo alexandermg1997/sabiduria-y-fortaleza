@@ -1,132 +1,180 @@
-/* styles.css - Estilos Cinematográficos y Tema Oscuro con Acentos de Oro */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Outfit:wght@300;400;500;600;700&display=swap');
+/* ==========================================================================
+   styles.css — Sistema Editorial "Obsidian & Gold" (Portal Oficial 2026)
+   Referencia estética: MasterClass / Apple TV+ · Negro Obsidiana + Oro Champán
+   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
 
 :root {
-    --color-bg-deep: #070A11;
-    --color-card: #0F1420;
-    --color-card-border: #1F2839;
-    --color-gold: #FFD700;
-    --color-gold-light: #FFE57F;
-    --color-gold-dark: #C69200;
-    --color-accent: #38BDF8;
+    --color-bg-deep: #06080D;
+    --color-surface-1: #0B0F18;
+    --color-surface-2: #111725;
+    --color-border-hairline: rgba(255, 255, 255, 0.068);
+    --color-gold-300: #F9E3A8;
+    --color-gold-400: #F3CF7A;
+    --color-gold-500: #D4A853;
+    --color-gold-600: #A87E2D;
 }
 
 body {
     background-color: var(--color-bg-deep);
-    color: #F1F5F9;
-    font-family: 'Outfit', sans-serif;
+    background-image:
+        radial-gradient(ellipse 80% 42% at 50% -10%, rgba(212, 168, 83, 0.09), transparent 70%),
+        radial-gradient(ellipse 50% 35% at 88% 18%, rgba(56, 189, 248, 0.04), transparent 65%);
+    color: #F8FAFC;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -0.008em;
     overflow-x: hidden;
 }
 
 h1, h2, h3, .font-cinzel {
-    font-family: 'Cinzel', serif;
-    letter-spacing: 0.03em;
+    font-family: 'Cinzel', Georgia, serif;
+    letter-spacing: 0.025em;
 }
 
-/* Scrollbar personalizada estética */
+.font-mono-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Scrollbar discreta */
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
 }
 ::-webkit-scrollbar-track {
-    background: #090D15;
+    background: #06080D;
 }
 ::-webkit-scrollbar-thumb {
-    background: #232B3E;
-    border-radius: 4px;
+    background: #1E2738;
+    border-radius: 999px;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #FFD700;
+    background: var(--color-gold-500);
 }
 
-/* Efectos de Brillo Dorado y Gradientes */
+/* Gradiente de Oro Editorial Calibrado */
 .gold-gradient-text {
-    background: linear-gradient(135deg, #FFF099 0%, #FFD700 50%, #FFA800 100%);
+    background: linear-gradient(135deg, #FFF3C4 0%, #F3CF7A 48%, #C8963E 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .gold-border-glow {
-    border: 1px solid rgba(255, 215, 0, 0.25);
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.08);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--color-border-hairline);
+    transition: transform 240ms cubic-bezier(0.22, 1, 0.36, 1),
+                border-color 240ms ease,
+                box-shadow 240ms ease;
 }
 
 .gold-border-glow:hover {
-    border-color: rgba(255, 215, 0, 0.6);
-    box-shadow: 0 0 30px rgba(255, 215, 0, 0.22);
+    border-color: rgba(212, 168, 83, 0.48);
+    box-shadow: 0 20px 44px -12px rgba(0, 0, 0, 0.72), 0 0 28px rgba(212, 168, 83, 0.12);
     transform: translateY(-4px);
 }
 
-/* Tarjeta Glassmorphic */
+/* Superficie de Cristal Obsidiana */
 .glass-panel {
-    background: rgba(15, 20, 32, 0.75);
-    backdrop-filter: blur(14px);
-    -webkit-backdrop-filter: blur(14px);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: rgba(11, 15, 24, 0.82);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+    border: 1px solid var(--color-border-hairline);
 }
 
-/* Botón Dorado Primario */
+.glass-nav {
+    background: rgba(6, 8, 13, 0.84);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--color-border-hairline);
+}
+
+/* Botones Editoriales */
 .btn-gold {
-    background: linear-gradient(135deg, #FFD700 0%, #D49B00 100%);
-    color: #0A0D14;
+    background: linear-gradient(135deg, #F3CF7A 0%, #C8963E 100%);
+    color: #07090F;
     font-weight: 700;
-    transition: all 0.25s ease;
-    box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+    border: 1px solid rgba(255, 243, 196, 0.45);
+    transition: all 200ms cubic-bezier(0.22, 1, 0.36, 1);
+    box-shadow: 0 6px 22px rgba(212, 168, 83, 0.24);
 }
 
 .btn-gold:hover {
-    background: linear-gradient(135deg, #FFE44D 0%, #E6A700 100%);
-    box-shadow: 0 6px 25px rgba(255, 215, 0, 0.45);
-    transform: scale(1.02);
+    filter: brightness(1.06);
+    box-shadow: 0 10px 30px rgba(212, 168, 83, 0.38);
+    transform: translateY(-1px);
 }
 
-/* Botón Secundario Transparente */
 .btn-outline-gold {
-    border: 1px solid rgba(255, 215, 0, 0.45);
-    color: #FFD700;
-    background: rgba(255, 215, 0, 0.05);
-    transition: all 0.25s ease;
+    border: 1px solid rgba(212, 168, 83, 0.38);
+    color: var(--color-gold-300);
+    background: rgba(212, 168, 83, 0.06);
+    transition: all 200ms ease;
 }
 
 .btn-outline-gold:hover {
-    background: rgba(255, 215, 0, 0.15);
-    border-color: #FFD700;
-    transform: scale(1.02);
+    background: rgba(212, 168, 83, 0.14);
+    border-color: var(--color-gold-400);
+    transform: translateY(-1px);
 }
 
-/* Animaciones */
-@keyframes pulseSubtle {
-    0%, 100% { opacity: 0.8; transform: scale(1); }
-    50% { opacity: 1; transform: scale(1.03); }
-}
-
-.animate-pulse-subtle {
-    animation: pulseSubtle 3s infinite ease-in-out;
-}
-
-/* Modal de Video */
-.video-modal-backdrop {
-    background: rgba(4, 7, 14, 0.92);
-    backdrop-filter: blur(16px);
-}
-
-/* Chips de Filtro */
+/* Chips de Filtro con Contador */
 .filter-chip {
-    transition: all 0.2s ease;
-}
-.filter-chip.active {
-    background: #FFD700;
-    color: #0A0E18;
-    font-weight: 700;
-    border-color: #FFD700;
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.35);
+    transition: all 180ms ease;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: rgba(13, 18, 29, 0.85);
 }
 
-/* Tarjetas de Shorts vs Documentales */
-.card-short-format {
-    aspect-ratio: 9 / 16;
+.filter-chip:hover {
+    border-color: rgba(212, 168, 83, 0.4);
+    color: #FFFFFF;
 }
-.card-long-format {
-    aspect-ratio: 16 / 9;
+
+.filter-chip.active {
+    background: linear-gradient(135deg, #F3CF7A 0%, #D4A853 100%);
+    color: #07090F;
+    font-weight: 700;
+    border-color: #F3CF7A;
+    box-shadow: 0 4px 18px rgba(212, 168, 83, 0.28);
+}
+
+/* Libro Maestro 3D Hardcover Mockup */
+.book-3d-mockup {
+    position: relative;
+    border-radius: 6px 16px 16px 6px;
+    background: linear-gradient(145deg, #121928 0%, #090D16 65%, #1E160B 100%);
+    border: 1px solid rgba(212, 168, 83, 0.42);
+    box-shadow:
+        -10px 0 0 -2px #0A0E17,
+        -12px 0 0 -1px rgba(212, 168, 83, 0.35),
+        0 28px 55px rgba(0, 0, 0, 0.78),
+        0 0 35px rgba(212, 168, 83, 0.12);
+    transition: transform 320ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.book-3d-mockup::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 12px;
+    width: 2px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.14), rgba(212,168,83,0.28), rgba(255,255,255,0.06));
+}
+
+.book-3d-mockup:hover {
+    transform: translateY(-4px) rotate(-1deg);
+}
+
+/* Modal de Video Adaptativo (9:16 Vertical vs 16:9 Documental) */
+.video-modal-backdrop {
+    background: rgba(4, 6, 11, 0.92);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+}
+
+.modal-shell--vertical {
+    max-width: 400px !important;
+}
+
+.modal-shell--wide {
+    max-width: 920px !important;
 }
