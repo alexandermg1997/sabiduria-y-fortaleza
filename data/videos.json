@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 293,
-    "published_count": 292,
+    "total_videos": 294,
+    "published_count": 293,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-24 14:30:07 UTC"
+    "last_updated": "2026-11-24 20:21:35 UTC"
   },
   "videos": [
+    {
+      "id": "short_310",
+      "db_id": 310,
+      "type": "short",
+      "format": "9:16",
+      "title": "Bose: El Genio que Corrigió a Einstein con una Carta #Shorts",
+      "description": "¿Sabías que un genio indio, Satyendra Nath Bose, corrigió a Albert Einstein? Descubre la fascinante historia de Bose y cómo su innovadora teoría transformó la física cuántica, dando origen a los bosones. Un viaje a la mente brillante que redefinió las leyes del universo. #Shorts #Sabiduria #Historia #FisicaCuantica #Bose #Einstein",
+      "youtube_id": "68zXJB76t_4",
+      "youtube_url": "https://www.youtube.com/shorts/68zXJB76t_4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/68zXJB76t_4",
+      "thumbnail_url": "https://img.youtube.com/vi/68zXJB76t_4/maxresdefault.jpg",
+      "duration_seconds": 110.6,
+      "duration_formatted": "1:50",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Bose",
+        "Einstein"
+      ],
+      "published": true,
+      "created_at": "2026-11-24",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_309",
       "db_id": 309,
