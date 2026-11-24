@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 292,
-    "published_count": 290,
+    "total_videos": 293,
+    "published_count": 291,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-24 03:11:00 UTC"
+    "last_updated": "2026-11-24 14:12:31 UTC"
   },
   "videos": [
+    {
+      "id": "short_309",
+      "db_id": 309,
+      "type": "short",
+      "format": "9:16",
+      "title": "Murasaki Shikibu: El Poder del Observador Silencioso #Shorts",
+      "description": "Descubre la historia de Murasaki Shikibu, la dama de honor del periodo Heian que escribió 'La historia de Genji', considerada la primera novela de la humanidad. Su aguda observación y dominio secreto de la literatura transformaron la historia de las letras para siempre. Suscríbete para más historias de sabiduría ancestral. #Shorts #Sabiduria #Historia #Filosofia #MurasakiShikibu #JaponAntiguo",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 96.8,
+      "duration_formatted": "1:36",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "MurasakiShikibu",
+        "JaponAntiguo"
+      ],
+      "published": false,
+      "created_at": "2026-11-24",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
     {
       "id": "short_308",
       "db_id": 308,
@@ -22,10 +51,10 @@
       "format": "9:16",
       "title": "Hipatia: La Verdad Que NINGÚN Fuego Pudo Apagar #Shorts",
       "description": "Descubre la historia de Hipatia de Alejandría, la brillante filósofa y matemática cuyo legado desafió su época. Un viaje por el conocimiento que ningún fuego pudo apagar. #Shorts #Sabiduria #Historia #Filosofia #Matematicas #Hipatia #Alejandria #MujeresEnLaHistoria",
-      "youtube_id": "",
-      "youtube_url": "https://www.youtube.com",
-      "embed_url": "",
-      "thumbnail_url": "assets/banner.jpg",
+      "youtube_id": "5t6KtbqB3Gw",
+      "youtube_url": "https://www.youtube.com/shorts/5t6KtbqB3Gw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/5t6KtbqB3Gw",
+      "thumbnail_url": "https://img.youtube.com/vi/5t6KtbqB3Gw/maxresdefault.jpg",
       "duration_seconds": 88.5,
       "duration_formatted": "1:28",
       "category": "Héroes & Biografías",
@@ -37,11 +66,11 @@
         "Matematicas",
         "Hipatia"
       ],
-      "published": false,
+      "published": true,
       "created_at": "2026-11-24",
       "social": {
-        "tiktok": "",
-        "facebook": ""
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
       }
     },
     {
