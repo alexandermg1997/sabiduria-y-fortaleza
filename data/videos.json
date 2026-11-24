@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 290,
-    "published_count": 289,
+    "total_videos": 291,
+    "published_count": 290,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-23 14:53:54 UTC"
+    "last_updated": "2026-11-24 01:30:08 UTC"
   },
   "videos": [
+    {
+      "id": "short_307",
+      "db_id": 307,
+      "type": "short",
+      "format": "9:16",
+      "title": "Akhenatón: El Faraón que Vio un Dios Único en el Sol #Shorts",
+      "description": "Descubre la asombrosa historia de Akhenatón, el faraón que desafió milenios de tradición para adorar a un único dios solar. Sumérgete en el antiguo Egipto y su revolución espiritual. #Shorts #Sabiduria #Historia #EgiptoAntiguo #Akhenaton #Aton #Faraones #RevolucionReligiosa #MisteriosDeEgipto",
+      "youtube_id": "mC1_kwLvQ7w",
+      "youtube_url": "https://www.youtube.com/shorts/mC1_kwLvQ7w",
+      "embed_url": "https://www.youtube-nocookie.com/embed/mC1_kwLvQ7w",
+      "thumbnail_url": "https://img.youtube.com/vi/mC1_kwLvQ7w/maxresdefault.jpg",
+      "duration_seconds": 100.0,
+      "duration_formatted": "1:39",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "EgiptoAntiguo",
+        "Akhenaton"
+      ],
+      "published": true,
+      "created_at": "2026-11-23",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_306",
       "db_id": 306,
