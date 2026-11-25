@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 296,
-    "published_count": 295,
+    "total_videos": 297,
+    "published_count": 296,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-25 20:10:49 UTC"
+    "last_updated": "2026-11-25 23:46:41 UTC"
   },
   "videos": [
+    {
+      "id": "short_313",
+      "db_id": 313,
+      "type": "short",
+      "format": "9:16",
+      "title": "La Danza Que Detuvo La Guerra: El Poder de la Belleza #Shorts",
+      "description": "Descubre la increíble historia de cómo una danzarina de Bharatanatyam detuvo una guerra. Un viaje al poder de la belleza y el arte en la antigua India. ¿Puede un solo movimiento cambiar el curso de la historia? #Shorts #Sabiduria #Historia #Bharatanatyam #Danza #India",
+      "youtube_id": "7ZT2Ujeddgw",
+      "youtube_url": "https://www.youtube.com/shorts/7ZT2Ujeddgw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/7ZT2Ujeddgw",
+      "thumbnail_url": "https://img.youtube.com/vi/7ZT2Ujeddgw/maxresdefault.jpg",
+      "duration_seconds": 100.5,
+      "duration_formatted": "1:40",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Bharatanatyam",
+        "Danza"
+      ],
+      "published": true,
+      "created_at": "2026-11-25",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_312",
       "db_id": 312,
