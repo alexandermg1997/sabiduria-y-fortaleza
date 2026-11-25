@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 294,
-    "published_count": 293,
+    "total_videos": 295,
+    "published_count": 294,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-24 20:21:35 UTC"
+    "last_updated": "2026-11-25 14:34:45 UTC"
   },
   "videos": [
+    {
+      "id": "short_311",
+      "db_id": 311,
+      "type": "short",
+      "format": "9:16",
+      "title": "Li Ching-Chao: Cuando el Mundo se Rompe, la Poesía Resurge #Shorts",
+      "description": "Descubre la increíble historia de Li Ching-Chao, la poetisa china que encontró la fuerza en la adversidad. Su vida, marcada por la pérdida y el desplazamiento durante la Dinastía Song, es un testimonio de resiliencia y arte. Acompaña a Li Ching-Chao en un viaje a través de sus poemas inmortales y su espíritu indomable. #Shorts #Sabiduria #Historia #PoesiaChina #LiChingChao #DinastiaSong #Resiliencia #MujeresHistoricas",
+      "youtube_id": "tabagyhapuo",
+      "youtube_url": "https://www.youtube.com/shorts/tabagyhapuo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/tabagyhapuo",
+      "thumbnail_url": "https://img.youtube.com/vi/tabagyhapuo/maxresdefault.jpg",
+      "duration_seconds": 100.2,
+      "duration_formatted": "1:40",
+      "category": "Héroes & Biografías",
+      "tags": [
+        "Shorts",
+        "Sabiduria",
+        "Historia",
+        "Filosofia",
+        "Poesia",
+        "China"
+      ],
+      "published": true,
+      "created_at": "2026-11-25",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_310",
       "db_id": 310,
