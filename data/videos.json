@@ -2,8 +2,8 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 295,
-    "published_count": 294,
+    "total_videos": 296,
+    "published_count": 295,
     "categories": [
       "Crecimiento Personal",
       "Documentales 16:9",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-25 14:34:45 UTC"
+    "last_updated": "2026-11-25 20:10:49 UTC"
   },
   "videos": [
+    {
+      "id": "short_312",
+      "db_id": 312,
+      "type": "short",
+      "format": "9:16",
+      "title": "Al-Biruni: El Sabio que Viajó Mil Años en el Tiempo con Solo un Cuadrante y su Mente #Shorts",
+      "description": "Hace más de mil años, el polímata persa Abu Rayhan al-Biruni midió la circunferencia de la Tierra con un margen de error menor al 1%, usando únicamente un cuadrante, una montaña y el poder de la trigonometría. Descubre la mente visionaria que anticipó la rotación terrestre y la existencia de nuevos continentes.\n\n#AlBiruni #SabiduriaYTrascendencia #HistoriaDeLaCiencia #Astronomia #Estoicismo #Shorts",
+      "youtube_id": "NjJ-QrZeNnE",
+      "youtube_url": "https://www.youtube.com/shorts/NjJ-QrZeNnE",
+      "embed_url": "https://www.youtube-nocookie.com/embed/NjJ-QrZeNnE",
+      "thumbnail_url": "https://img.youtube.com/vi/NjJ-QrZeNnE/maxresdefault.jpg",
+      "duration_seconds": 92.3,
+      "duration_formatted": "1:32",
+      "category": "Estoicismo & Templanza",
+      "tags": [
+        "Al-Biruni",
+        "Sabiduría y Trascendencia",
+        "historia de la ciencia",
+        "polímata persa",
+        "astronomía antigua",
+        "circunferencia de la Tierra"
+      ],
+      "published": true,
+      "created_at": "2026-11-25",
+      "social": {
+        "tiktok": "https://www.tiktok.com/@leidylaura4783",
+        "facebook": "https://www.facebook.com/1245809785290441/reels/"
+      }
+    },
     {
       "id": "short_311",
       "db_id": 311,
