@@ -2,7 +2,7 @@
   "metadata": {
     "channel_name": "Sabiduría y Fortaleza",
     "slogan": "Forjando el Carácter a Través de la Historia y la Filosofía",
-    "total_videos": 297,
+    "total_videos": 298,
     "published_count": 296,
     "categories": [
       "Crecimiento Personal",
@@ -12,9 +12,38 @@
       "Reflexiones Profundas",
       "Sabiduría Histórica & Fe"
     ],
-    "last_updated": "2026-11-25 23:46:41 UTC"
+    "last_updated": "2026-11-26 06:06:42 UTC"
   },
   "videos": [
+    {
+      "id": "short_314",
+      "db_id": 314,
+      "type": "short",
+      "format": "9:16",
+      "title": "Mefiboset: El Olvidado que el Rey Mandó a Buscar #Shorts",
+      "description": "¿Alguna vez te has sentido olvidado, cargando el peso de una herida que crees imperdonable? La historia de Mefiboset, en 2 Samuel 9:1-13, nos muestra cómo un rey bondadoso buscó a un hombre que se sentía indigno, transformando su dolor en un banquete de aceptación incondicional. Descubre cómo la gracia divina puede alcanzarte, no por tus méritos, sino por un amor que lo restaura todo. #Shorts #ReflexionBiblica #SabiduriaYTrascendencia #Fe #Sanacion",
+      "youtube_id": "",
+      "youtube_url": "https://www.youtube.com",
+      "embed_url": "",
+      "thumbnail_url": "assets/banner.jpg",
+      "duration_seconds": 91.2,
+      "duration_formatted": "1:31",
+      "category": "Sabiduría Histórica & Fe",
+      "tags": [
+        "Shorts",
+        "Reflexion Biblica",
+        "Sabiduria y Trascendencia",
+        "Historias Biblicas",
+        "Fe",
+        "Consuelo"
+      ],
+      "published": false,
+      "created_at": "2026-11-26",
+      "social": {
+        "tiktok": "",
+        "facebook": ""
+      }
+    },
     {
       "id": "short_313",
       "db_id": 313,
